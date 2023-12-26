@@ -281,7 +281,7 @@ D2C,Direct to Customer
 DA,Diagnostic Address
 DAF,Datenaufzeichnungsfunktion
 DASDM,Driver Assistance Systems Display Manager
-DCF,Device  Configuration  Field
+DCF,Device Configuration Field
 DCM,Data Collector Master
 DCOM,Data Collector Order Management
 DCOM,Data Collector Order Manager
@@ -746,8 +746,8 @@ MPJPE,Mean Per Joint Position Error
 MPP,Massively Parallel Processing
 MPP,Most Prefere Path
 MPS,Meta Programming System
-MPU,Memory  Protection  Unit
-MQB,Modularer Quer Baukasten
+MPU,Memory Protection Unit
+MQB,Modularer Quer Baukasten
 MQTT,Message Queuing Telemetry Transport
 MRC,Maximum Ratio Combining
 MRIP,Message Routing Information Provider
@@ -1128,7 +1128,7 @@ SSP,Scalable Systems Platform
 SSR,Server Side Rendering
 ST,Scenario Templates
 STEAS,Smart Testing Environment for Autonomous System
-stiEF,"scenario-accompanied, text-based, iterative Evaluation of automated driving Functions"
+stiEF,"scenario-accompanied,text-based,iterative Evaluation of automated driving Functions"
 STT,Speech to Text
 SUMO,Simulation of Urban MObility
 SUMO,Simulation of Urban MObility
