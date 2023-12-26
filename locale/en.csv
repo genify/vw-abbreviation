@@ -27,7 +27,6 @@ ADAP,Autonomous Driving . Autonomous Parking
 ADAS,Advanced Driver Assistant System
 ADASIS,Advanced Driver Assistant System Interface Specifications
 ADC,Analog-to-Digital Converter
-ADD,Architecture Definition Document 
 ADD,Architecture Definition Document
 ADL,Architecture Description Language
 ADO,Azure DevOps
@@ -124,7 +123,7 @@ AZK,Anzeigekoordinator
 AzS,Authorization Server
 AzS,Authorization Server
 B2B,Business to Business
-BAF,Boot  Assisted  Flash
+BAF,Boot Assisted Flash
 BAP,Bedien-Anzeige-Protokoll
 BAS,Brake Assist System
 bCall,Online Breakdown Call
@@ -215,7 +214,7 @@ CDD,Complex Device Driver
 CDD,Conversation-Driven Development
 CDIS,Car Data Information System
 CDM,Customer Data Management
-CDN,Content Delivery Network 
+CDN,Content Delivery Network
 CDP,Client Domain Proxy
 CDS,CAN Dev Studio
 CDS,Chassis Domain System
@@ -230,7 +229,7 @@ CF,Collaborative Filtering
 CFA,Car Function Adapter
 CFES,Central Function Enabling System
 CHA,Communication Hardware Abstraction
-CI,Car Interface 
+CI,Car Interface
 CIA,Charging Infrastructure Analytics
 CIAT,Continuous Integration and Automated Test
 CID,Central Information Display
@@ -258,10 +257,9 @@ CP,Contingency Planning
 CPE,Composite Product Evaluation
 CPM,Customer Profie Management
 CPP,Cyber Physical Products
-CPPT,Connect Product Planning Team 
+CPPT,Connect Product Planning Team
 CRG,Curved Regular Grid
 CSA,Certificate Authority
-CSA,certificate authority
 CSA,Core Services Authentication
 CSI,Camera Serial Interface
 CSI,Cyber Security Incident
@@ -275,7 +273,7 @@ CT,Commerce Tools
 CT,Car Telephone
 CTC,Connectionist temporal classification
 CTS,Compatibility Test Suite
-CTT,Connect TechnologieTeam 
+CTT,Connect TechnologieTeam
 CVC,Card Verification Code
 CVD,Customer Verified Data
 CWP,Customer Web Portal
@@ -296,7 +294,7 @@ DDS,Data Distribution Service
 DE,Design Phase
 DEFE,Driver Emotion Facial Expression
 DET,Data Freeze Milestone
-DF,Datenfestlegung 
+DF,Datenfestlegung
 DF,Design-Freeze
 DFMS,Driver Fatigue Monitor System
 DFOV,Display Field of View
@@ -358,7 +356,7 @@ DUT,Devices Under Test
 DV,Datenverarbeitung
 DVP,Digital Video Port
 DVR,Digital Video Recorder
-DWAP,DWA Push 
+DWAP,DWA Push
 DWAP,Diebstahlwarnanlage push
 DWM,Driver Warning Manager
 E3,End to End Elektronik Architektur
@@ -410,7 +408,7 @@ ESI,External Sensor Interface
 ESL,Electronic System Level
 ESM,Egomotion and Surface Mode
 ETKA,Ersatzteil & Katalog
-ETRNRP,ETronRoutePlanningService 
+ETRNRP,ETronRoutePlanningService
 EVACS,Enable Vehicle And Customer Services
 EVACS,Enable Vehicle & Customer Services
 EVS,Exterior View System
@@ -428,7 +426,7 @@ FCECS,Fuel Cell Engine Control System
 FCM,Firebase Cloud Messaging
 FCWS,Forward Collision Warning System
 FDC,FleetDataCollector
-FEP,Functional Engineering Platform 
+FEP,Functional Engineering Platform
 FFB,Funkfernbedienung
 FFI,Freedom From Interference
 FID,Frechet Inception Distance
@@ -453,7 +451,7 @@ FRC,Factory Reset Controller
 FRS,Front radar sensor
 FRSF,Front radar sensor long range
 FS,Financial Services
-FSD,Full Self Driving 
+FSD,Full Self Driving
 FuSi,functional safety
 FV,Fix Version
 FZD,Roof function centre
@@ -463,7 +461,7 @@ GAS,Google Automotive Services
 GATA,Guard Against Theft and Alarm System
 GBDT,Gradient Boosting Decision Tree
 GCM,Google Cloud Message
-GCSP,Global Customer Support Process 
+GCSP,Global Customer Support Process
 GDC,Group Data Collector
 GDC,Generic Document Consent
 GDP,GENIVI Development Platform
@@ -491,7 +489,7 @@ GrM,Group Module
 GRP,Group Retail Portal
 GRU,Gated Recurrent Unit
 GSB,Group Service Bus
-GSBR,Group Service Bus Registry 
+GSBR,Group Service Bus Registry
 GSDK,Group SDK
 GSI,Generic Simulation Interface
 GSL,Group Secure Login
@@ -549,7 +547,7 @@ IAM,Identity and Access Management
 IATF,International Automotive Task Force
 IBAN,International Bank Account Number
 IBD,Inbound Dispatcher
-ICAS,In-Car Application Servers 
+ICAS,In-Car Application Servers
 ICB,Instrument Communication Bus interface
 ICB,INTER-Connect Board
 ICB,Intelligent Cockpit and Body
@@ -662,7 +660,7 @@ LIM,Speed Limiter
 LIMEO,reverse of OEMIL
 LIN,Local Interconnect Network
 LKA,Lane Keeping Assist
-LL,Low Level 
+LL,Low Level
 LLDs,Low-Level Descriptors
 LoC,Lines of Code
 Loc.HD,Localization HD
@@ -677,7 +675,7 @@ LSM,Linux Security Module
 LSM,Linux Security Model
 LUM,Local Update Manager
 LVDS,Low-Voltage Differential Signaling
-M-SDL, Measurable Scenario Description Language
+M-SDL,Measurable Scenario Description Language
 M/ADC,Mobile Data Center / ADAS\AD Domain Controller
 MA,Manövrierassistent
 MA,Maintenance
@@ -686,7 +684,7 @@ MaaS,Mobility as a Service
 MAC,Mandatory Access Control
 MAC,Message Authentication Code
 MADE,Mobility/Autonomous/Digitalization/Electrification
-MAL, MBB Abstraction Layer
+MAL,MBB Abstraction Layer
 MAP,Message Data
 MBB,Modular Backend Baukasten
 MBD,MultiBody Dynamics
@@ -706,7 +704,7 @@ MDM,Mobile Device Management
 MDP/mDP,Mobile Device Platform
 ME,Market Entry
 ME1/2/3,Market Entrance 1/2/3
-MEB,Modular Electric Baukasten 
+MEB,Modular Electric Baukasten
 MEC,Multi-access Edge Computing
 MEC,Multi-access Edge Computing
 MEC,Manual Emergency Call
@@ -734,7 +732,7 @@ MM,Media Manager
 MMB,Modulare Mittel Baukasten
 MMI,Man Machine Interface
 MMI,Multi-Media Interface
-MMU,Memory Management Unit 
+MMU,Memory Management Unit
 MNB,Modular Commercial Vehicles Toolkit
 MNO,Managed Network Operations/Mobile Network Online/Mobile Network Operator
 MNP,Message Notification Platform
@@ -747,12 +745,12 @@ MPB,Modular Production System
 MPJPE,Mean Per Joint Position Error
 MPP,Massively Parallel Processing
 MPP,Most Prefere Path
-MPS,Meta Programming System 
+MPS,Meta Programming System
 MPU,Memory  Protection  Unit
 MQB,Modularer Quer Baukasten
 MQTT,Message Queuing Telemetry Transport
 MRC,Maximum Ratio Combining
-MRIP,Message Routing Information Provider 
+MRIP,Message Routing Information Provider
 MRR,Medium Range Radar
 MRR,Medium Range Radar
 MSB,Modular Standard Drivetrain Toolkit
@@ -806,7 +804,7 @@ OCU4,Online Connectivity Unit 4th generation
 OD,Object Detection
 ODA,Onboard Devices Abstraction
 ODD,Operational Design Domains
-ODD,Operational Design Domain 
+ODD,Operational Design Domain
 ODIS,Offboard Diagnostic Information System
 ODP,One Digital Platform
 ODP 1.0,Correct name for MBB L&S
@@ -827,7 +825,7 @@ OPS,Optical Parking System
 OR,Online Registration
 ORU,Online Remote Update
 ORU,Online Remote Update
-OSG,Open Scene Graph 
+OSG,Open Scene Graph
 OSH,Occupant State HMI
 OSI,Open Simulation Interface
 OSO,Open Source Office
@@ -860,7 +858,7 @@ PCM,Product and Command Manager
 PCO,Project Controlling Office
 PCS,PreCrash Seite (side)
 PCU,Power Control Unit
-PDAM,Product Data & Asset Management 
+PDAM,Product Data & Asset Management
 PDC,Park Distance Control
 PDC,Power Data Center
 PDC,Park Distance Control
@@ -877,7 +875,7 @@ PF,Project Feasibility
 PHA,Parkhausassistent
 PHEV,Plug-in Hybrid Electric Vehicle
 PHEV,Plug-in Hybrid Electric Vehicle
-PHM,Platform Health Management 
+PHM,Platform Health Management
 PHP,Parkhauspilot
 PI,Program Increment
 PII,Personally Identifiable Information
@@ -893,7 +891,7 @@ PL,Planning
 PL,Passenger Longitudinal Engine
 PLA,Power Level Adapter
 PLARA,PLA für ARA
-PLM,Proactive Lead Management 
+PLM,Proactive Lead Management
 PLP,Prädiktive Längsplanung
 PLT,Precise Local Time
 PM,Predictive Maintanance
@@ -902,7 +900,7 @@ PMD,Photonic Mixing Device
 PMIC,Power Management Integrated Circuit
 PMSP,Product Management Service Platform
 PMT,Processes Methods & Tools
-PNC,PlugAndChargeService 
+PNC,PlugAndChargeService
 PnC,Plug & Charge Online
 PNS,Push Notification Service
 POA,Proposal of Award
@@ -922,7 +920,7 @@ PrM,Predictive Maintenance
 PRPort,Provided and Received Port
 PS,Project Start
 PS vehicle,Pre-series vehicle
-PSAP,Public Safety Answering Point 
+PSAP,Public Safety Answering Point
 PSAP,Public Safety Answering Point
 PSD,Payment Services Directive
 PSD,Prädiktive Streckendaten
@@ -966,7 +964,7 @@ RDK,Reifendruckkontrolle
 RDP,Retail Digital Portal
 RDS,Radio Data System
 RDS,Relational Data Script
-RDT,Remote Departure Time 
+RDT,Remote Departure Time
 RDW,Rest der Welt
 RE,Relation Extraction
 RE,Runnable Entity
@@ -1000,7 +998,7 @@ RPort,Received Port
 RPT,Remote Profiles and Timers
 RPT,Remote Profile and Timer Programming
 RPWS,Radar Proximity Warning System
-RSA,Remote Speed Alert 
+RSA,Remote Speed Alert
 RSA,Remote Speed Alert
 RSB,Radio Sound Box
 RSC,Radio Sound Controller
@@ -1024,8 +1022,8 @@ RTS,Remote Trip Statistics
 RVAS,Reverse Vehicle Alarm System
 RVC,Rear View Camera
 RVI,Remote Vehicle Interaction
-RViz,ROS Visualization Tool 
-RVS,Remote Vehicle Status 
+RViz,ROS Visualization Tool
+RVS,Remote Vehicle Status
 RWM,Reichweiten Management
 S&Q,Service and Quality
 S3,Simple Storage Service
@@ -1171,7 +1169,7 @@ TISA,Traveller Information Services Association
 TJP,Traffic Jam Pilot
 TKOV,Two Key Owner Verifikation
 TL,Technical Supply Specification
-TLI,Traffic Light Information 
+TLI,Traffic Light Information
 TLT,Trustworthy Local Time
 TM,Transceiver Modul
 TM,Three-dimensional Part model
@@ -1230,7 +1228,7 @@ USSG,Unterbodensensorik-Steuergerät
 UTRAN,Universal Terrestrial Radio Access Network
 Uu,User-to-UTRAN
 V2I,Vehicle to Infrastructure
-V2N,Vehicle to Network 
+V2N,Vehicle to Network
 V2P,Vehicle to Pedestrian
 V2V,Vehicle to Vehicle
 V2X,Vehicle to Everything
@@ -1248,7 +1246,7 @@ VCM,Vehicle Configuration Manager
 VCM,Vehicle Capability Management
 VCM,Vehicle Capability Management
 VCOS,Vehicle-Controlled Operating System
-VCS,Volkswagen Computer System 
+VCS,Volkswagen Computer System
 VCTL,Vehicle Configuration Type List
 VCU,Vehicle Control Unit
 VDA,The German Association of the Automotive Industry
@@ -1265,7 +1263,7 @@ VFF,Vorserien-Freigabe Fahrzeug / Pre-series release vehicle
 vFGS,Vorausschauender Fußgängerschutz
 VFOV,Vertical Field of View
 VGC,Volkswagen Group China
-VHR,Vehicle Health Report 
+VHR,Vehicle Health Report
 VI,Vehicle-Integration
 VICS,Vehicle Information and Communication System
 VID,VID
@@ -1335,7 +1333,7 @@ ZeC,Zone electric Controller
 ZFAS,Zentrale Fahrer Assistenz System
 zFDI,zentraler Fahrzeugdaten Interpreter
 ZGM,Central Gateway Module
-ZP8,Point of delivery 8 
+ZP8,Point of delivery 8
 ZR,Zentralrechner
 ZSB,Zusammenbauteil
 ZUG,a German word for train
