@@ -1,1341 +1,1341 @@
-source,target
-SF,Success Factors
-AWS,Amazon Web Services
-IDP,Identity Provider
-VWID,Name of solution for IAM for Volkswagen PKW
-IAM,Identity and Access Management
-ID-Kit,IDP for the Service Platform Interfaces and systems
-ODP,One Digital Platform
-GITC,Group IT Cloud
-PSP,Payment Service Provider
-MVP,Minimal Viable Product
-VCF,Vehicle Connectivity Framework
-OEM.IL,OEM Integration Layer
-VAS,Vehicle Activation Service
-VUM,Vehicle User Management
-GVF,Group Vehicle Folder/File
-ECR,Elastic Container Registry
-S3,Simple Storage Service
-SQS,Simple Queue Service
-CPM,Customer Profie Management
-PDE,Pre Delivery Enrollment
-CCS,Customer Centric Services
-CEM,Customer Experience Management
-GRP,Group Retail Portal
-VMD,Vehicle Master Data
-DMD,Device Master Data
-ADD,Architecture Definition Document 
-SoAW,Statement of Architecture Work
-VDS,Vehicle Discovery Service
-VSR,Vehicle Status Report
-CF,Car Finder
-RLU,Remote Lock & Unlock
-RHF,Remote Honk & Flash
-CCF,Customer Care Frontend
-KSU,Klassifikations system für Unterlagen
-SBA,Subscription
-Wex,WeExperience
-AEM,Adobe Experience Manager
-POC,Proof Of Concept
-RFQ,Request for Quotation
-SOP,Start of Production
-ICAS,In-Car Application Servers 
-SOA,Android Scenario-oriented Application
-CNS,China Navigation System
-MIB,Modularer Infotainment Baukasten
-MOSC,Mobile Online Service China
-VAS,Volkswagen Audi Solution
-MQB,Modularer Quer Baukasten
-MEB,Modular Electric Baukasten 
-MBB,Modular Backend Baukasten
-PPE,Premium Platform Electric
-CAP,Cloud Analytics Platform
-ECS,Execute Container Serverless
-CIA,Charging Infrastructure Analytics
-CE,Commerce Engine
-CT,Commerce Tools
-VAT,Value-added Tax
-SMT,Shop Management Tool
-WL,White Label
-GSDK,Group SDK
-NR,New Relic
-APNS,Apple Push Notification Service
-CDM,Customer Data Management
-PIM,Project Information Management
-DE,Design Phase
-SDLC,Software Development Life Cycle
-ECS,Enterprise Core Service
-LS,Local Services
-SSR,Server Side Rendering
-LSG,Living Style Guide
-BIN/BIC,Bank Identification Number/Code
-IBAN,International Bank Account Number
-CIT,Customer Initiated Transaction
-MIT,Merchant Initiated Transaction
-PAN,Primary Account Number
-CVC,Card Verification Code
-EBRC,European Business Reliance Centre
-ICT,Information and Communication Technology
-SEPA,Single Euro Payments Area
-PSD,Payment Services Directive
-GmbH,Gesellschaft mit beschrankter Haftung
-SWIFT,Society For Worldwide Interbank Financial Telecommunication
-EMI,Electronic Money Institute
-GPS,Global Payment Solution
-FS,Financial Services
-FoD,Functions on Demand
-GDPR,General Data Protection Regulation
-VW FS AG,Volkswagen Finanicial Services AG
-AG,Aktien Gesellschaft
-EEA,European Economic Area
-TPP,Third Party Provider
-PSU,Payment Service User
-ASPSP,Account Servicing Payment Service Providers
-QTSP,Qualified Trusted Service Providers
-CBPII,Card Based Payment Instrument Issuers
-AISP,Account Information Service Providers
-PISP,Payment Initiation Service Providers
-PEP,Politically Exposed Person
-TAN,Transaction Authentication Number
-OTP,One Time Password
-2FA,Two Factor Authentication
-SL,Sanctions List
-AML,Anti-Money Laundering
-PCI DSS,Payment Card Industry Data Security Standard
-CABS,Car Access Based Services
-CEM,Customer Engagement Management
-PDAM,Product Data & Asset Management 
-VWS,Volkswagen Web Services
-IAA,Identification Authentication Authorisaction
-CMP,Customer Mobility Prediction
-SES,Simple Email Service
-CCMS,Customer Contract Management System
-EMEA,Europe
-IDS,Intrusion Detection System
-WCB,Wireless Car Backend
-MOD,Mobile Online Dienste
-WS,WorkShop
-DTC,Digital Trouble Code
-VDBS,Vehicle Discovery Backend Service
-VIWI,Volkswagen Infotainment Web Interface
-RSI,RESTful Service Interface
-RCaaS,Range Calculation as a Service
-GVM,Geschäftsvorfall mappe
-BCP,Business Case Portfolio
-NFR,Non Functional Requirement
-WOB,We Organize Backend
-AKS,Azure Kubernetes Service
-CIDS,CYMOTIVE Intrusion Detection System
-PKT,Projektkoordinator Technik
-BDSG,Bundesdatenschutzgesetz
-DSGVO,Datenschutzgrundverordnung
-SPR,Service Portal/Platform Retail
-RDP,Retail Digital Portal
-TAP,Technical Architecture Plan
-NAR,North America Region
-PCM,Product and Command Manager
-FAP,Fehlerabstellprozess
-ITR,Infotainment Recorder
-VUI,Voice User Interface
-SSM,Spring+SpringMVC+MyBatis
-OEM,Original Equipment Manufacturer
-MDP/mDP,Mobile Device Platform
-CCC,Create & Connect Competences
-RTK,Real Time Kinematics
-GDC,Group Data Collector
-MCVP,Microsoft Connected Vehicle Platform
-VWAC,Volkswagen Automotive Cloud
-DCOM,Data Collector Order Management
-SUP,Software Update Process
-TLI,Traffic Light Information 
-CPPT,Connect Product Planning Team 
-CTT,Connect TechnologieTeam 
-DLCM,Digital Lifecycle Management
-ORU,Online Remote Update
-ADO,Azure DevOps
-PONR,Point Of No Return
-RTS,Remote Trip Statistics
-RPC,Remote Pre-trip Climatization
-RBC,Remote Battery Charge
-RPT,Remote Profiles and Timers
-RSA,Remote Speed Alert 
-VHR,Vehicle Health Report 
-RVS,Remote Vehicle Status 
-RDT,Remote Departure Time 
-RHC,Remote Hotspot Configuration
-PMT,Processes Methods & Tools
-FFI,Freedom From Interference
-FSD,Full Self Driving 
-CADA,China Automative Driver Assistance
-HD Maps,High Definition Maps
-CRG,Curved Regular Grid
-PIM,Product Information Management
-IG,Image Generator
-RDB,Real Time Data Bus
-SCP,Simulation Control Protocol
-TTC,Time To Collision
-CDAS,Cooperative Driver Assistance System
-VANETs,Vehicular Ad Hoc Networks
-SUMO,Simulation of Urban MObility
-CAE,Computer-Aided Engineering
-E3,End to End Elektronik Architektur
-HAD,Highly Automated Driving
-IDPS,Intrusion Detection and Prevention System
-PMD,Photonic Mixing Device
-GSI,Generic Simulation Interface
-OSI,Open Simulation Interface
-EAS,Exhaust gas Aftertreatment Systems
-GCSP,Global Customer Support Process 
-AMS,Application Management System
-MDA,Mobile Device Application
-IMU,Inertial Measurement Units
-FAS,Fahrer Assistance System
-ABP,AutoBahnPilot
-ACA,Adaptive Cruise Assist
-ACK,Audi Connect Key 2.0
-ADP,Autonomous Driving Platform/Automated Driving Platform
-AVP,Autonomous Valet Parking
-BMC,Body Module Controller
-bCall,Online Breakdown Call
-CADA,China Advanced Driving Assistant
-CAPA,China Advanced Parking Assistant
-CCG,Custom Cloud Gateway
-CC/DP,Connected Car/Device Platform
-CKD,Completely Knocked-Down
-CLM,Car License Manager
-DCM,Data Collector Master
-DET,Data Freeze Milestone
-D2C,Direct to Customer
-eCall,emergency call
-FuSi,functional safety
-GA,General Availability
-HL,High Level
-HWP,HighWay Pilot
-DSG,Device Service Gateway
-L&S,Lift & Shift
-FAZIT,Führungskraft Auf Zeit Im Team
-BAS,Brake Assist System
-ACC,Adaptive Cruise Control
-AWD,All-wheel Drive
-BSD,Blind Spot Detection
-MaaS,Mobility-as-a-service
-MNO,Managed Network Operations/Mobile Network Online/Mobile Network Operator
-V2I,Vehicle to Infrastructure
-V2N,Vehicle to Network 
-V2P,Vehicle to Pedestrian
-V2V,Vehicle to Vehicle
-V2X,Vehicle to Everything
-SRS,Supplemental Restraint System
-DGPS,Differential Global Positioning System
-ESL,Electronic System Level
-TOF,Time-Of-Flight
-RDE,Real Driving Emission
-SUMO,Simulation of Urban MObility
-openPASS,open Platform for Assessment of Safety Systems
-FMI,Functional Mock-up Interface
-ADx,Autononous Driving Accelerator
-NVH,Noise
-MBD,MultiBody Dynamics
-MPP,Massively Parallel Processing
-AAI,Automotive Artificial Intelligence
-i-VISTA,Intelligent Vehicle Integrated Systems Test Area
-stiEF,"scenario-accompanied, text-based, iterative Evaluation of automated driving Functions"
-VKMS,Vehicle Key Management System
-CSA,Certificate Authority
-R&P,Register and Pairing
-IOT,Internet of Things
-IMEI,International Mobile Equipment Identity
-IMSI,International Mobile Subscriber Identity
-MPS,Meta Programming System 
-GEF,Graphical Editing Framework
-TPT,Time Partition Testing
-SAE,Society of Automotive Engineers
-STEAS,Smart Testing Environment for Autonomous System
-ST,Scenario Templates
-SQ,Safety Quotient
-LHW,Local Hazard Warning
-OSG,Open Scene Graph 
-M-SDL, Measurable Scenario Description Language
-DSL,Domain-Specific Language
-ODD,Operational Design Domains
-AM,Audio Manager
-AVPS,Automotive Virtual Platform Specification
-CCS,Cloud & Connected Services
-CDS,CAN Dev Studio
-CIAT,Continuous Integration and Automated Test
-DLT,Diagnostics Log and Trace
-DRM,Direct Rendering Manager
-DTCs,Diagnostic Trouble Codes
-DUMM,Download Upload Messaging Manager
-FIDL,Franca IDL
-GDP,GENIVI Development Platform
-HSM,Hardware Security Modules
-INC,Inter Node Communication
-IPC,Inter Process Communication
-JTA,Jenkins Test Automation
-KMS,Kernel Mode Setting
-LSM,Linux Security Module
-MAC,Mandatory Access Control
-MM,Media Manager
-OAB,Open Address Book
-OCF,Open Connectivity Foundation
-PIM,Personal Information Management
-QSB,Quick Start Board
-RVI,Remote Vehicle Interaction
-SABRE,Smart Application Blueprint for Rapid Engineering
-SAD,Software Architecture Document
-SDE,Software Development Environment
-SDL,Smart Device Link
-SIG,Special Interest Group
-STT,Speech to Text
-UDS,Unified Diagnostic Services
-VSM,Vehicle Signal Manager
-VSS,Vehicle Signal Specification
-WAMP,Web Application Messaging Protocol
-YAMAICA,Yet Another Model And Interface Conversion Application
-OSS,Open Source Software
-AMB,Automotive Message Broker
-DMS,Driver Monitoring System
-ICS,In Cabin Sensing
-IEMOCAP,Interactive Emotional Dyadic Motion Capture
-SER,Speech Emotion Recognition
-UA,Unweighted Accuracy
-BERT,Bidirectional Encoder Representations from Transformers
-ASR,Automatic Speech Recognition
-LLDs,Low-Level Descriptors
-MFCC,Mel-Frequency Cepstrum Coefficient
-AM,Acoustic Model
-MLP,Multi-Layer Perceptron
-GloVe,Global Vectors for Word Representation
-BRNN,Bi-directional Recurrent Neural Network
-YMRS,Young Mania Rating Scale
-HDRS,Hamilton Depression Rating Scale
-BPD,Bipolar Disorder
-NER,Named Entity Recognition
-IE,Information Extraction
-NQS,Normalized Query Structure
-EARL,Entity and Relation Linking
-GTSP,Generalised Travelling Salesman Problem
-KG,Knowledge Graph
-SQA,Semantic Question Answering
-GBDT,Gradient Boosting Decision Tree
-RDF,Resource Description Framework
-NED,Named Entity Disambiguation
-RE,Relation Extraction
-QG,Query Generation
-SQG,SPARQL Query Generator
-KBQA,Question Answering over Knowledge Base
-CF,Collaborative Filtering
-ROI,Regions Of Interest
-BSS,Blind Source Separation
-BF,Beam Forming
-BPM,Beat Per Minute
-BSW,Basic SoftWare
-ARA,AUTOSAR Runtime for Adaptive Applications
-iSAQB,International Software Architecture Qualification Board
-IREB,International Requirements Engineering Board
-OTA,Over The Air
-SOTA,Software Over The Air
-FOTA,Firmware Over The Air
-HMI,Human Machine Interface
-LBS,Location Based Services
-IVI,In Vehicle Infotainment
-DCU,Domain Control Unit
-BSP,Board Support Package
-SoC,System on Chip
-GAS,Google Automotive Services
-GMS,Google Mobile Services
-IDL,Interface Define Language
-HIDL,Hardware Interface Define Language
-AIDL,Android Interface Define Language
-AOSP,Android Open Source Project
-EVS,Exterior View System
-HVAC,Heating-Ventilation-Air Conditioning
-CAN,Controller Area Network
-AVB,Audio Video Bridge
-ADAS,Advanced Driver Assistant System
-SSDLC,Secure Software Development LifeCycle
-OCL,Object Constraint Language
-CAP,Composed Assurance Package
-CPE,Composite Product Evaluation
-MOST,Media Oriented Systems Transport
-ICV,Intelligent Connected Vehicles
-SDV,Software Defined Vehicle
-TBT,Turn By Turn
-TMC,Traffic Message Chnnel
-CCP,Current Car Position
-OCU,Online Connectivity Unit
-ADTF,Automotive Data and Time-Triggered Framework
-DSRC,Dedicated Short-Range Communication
-PC5,Band 47 (5.9GHz) for Sidelink Communications
-NLOS,Non Line-of-sight Sensing
-CAV,Connected Automated Vehicle
-C-V2X,Cellular-Vehicle to Everything
-Uu,User-to-UTRAN
-UTRAN,Universal Terrestrial Radio Access Network
-REPL,Read–Eval–Print Loop
-PDGen,Plugin Description Generator
-FEP,Functional Engineering Platform 
-RTI,Real-Time Innovations
-CDC,Car Data Collection
-UAC,USB Audio Class
-AEC,Acoustic Echo Cancellation
-DOA,Direction Of Arrival
-NS,Noise Suppression
-CTS,Compatibility Test Suite
-DUT,Devices Under Test
-CSL,Cyber Security Law
-EMS,Engine Management System
-ATCS,Automatic Transmission Control System
-VCU,Vehicle Control Unit
-HCU,Hybrid Control Unit
-MCU,Motor Control Unit
-BMS,Battery Management System
-FCECS,Fuel Cell Engine Control System
-TCS,Traction Control System
-ESC,Electronic Stability Control
-ECS,Electronic Control Suspension System
-CCS,Cruise Control System
-EPS,Electric Power Steering
-ABS,Anti-lock Braking System
-EBD,Electronic Brakeforce Distribution
-EBA,Electronic Brake Assist
-AEB,Autonomous Emergency Braking
-LDW,Lane Departure Warning
-LKA,Lane Keeping Assist
-HVAC,Heating
-TPMS,Tire Pressure Monitoring System
-SRS,Supplemental Restraint System
-SAMS,Seat Adjustment Position Memory System
-RPWS,Radar Proximity Warning System
-RVAS,Reverse Vehicle Alarm System
-FCWS,Forward Collision Warning System
-PAS,Parking Assist System
-CLCS,Central Locking Control System
-GATA,Guard Against Theft and Alarm System
-AFS,Adaptive Front-lighting System
-NVA,Night View Assist
-DFMS,Driver Fatigue Monitor System
-BDS,BeiDou Navigation Satellite System
-GPS,Global Positioning System
-CT,Car Telephone
-HUD,Head Up Display
-MMI,Man Machine Interface
-ECU,Electronic Control Unit
-AES,Automotive Embedded System
-MCU,Micro Controller Unit
-HAL,Hardware Abstraction Layer
-RTOS,Real Time Operating System
-API,Application Programming Interface
-ITEA,International Test and Evaluation Association
-ADL,Architecture Description Language
-AUTOSAR,AUTomotive Open System ARchitecture
-BCM,Body Control Module
-ASW,Application Software Layer
-RTE,RunTime Environment
-BSW,Basic Software Layer
-SWC,SoftWare Component
-RE,Runnable Entity
-ODA,Onboard Devices Abstraction
-MHA,Memory Hardware Abstraction
-CHA,Communication Hardware Abstraction
-IOHA,Input/Output Hardware Abstraction
-EEA,Electrical/Electronic Architecture
-CCM,Central Control Module
-BCM LH,Body Control Module Left Hand
-BCM RH,Body Control Module Right Hand
-M/ADC,Mobile Data Center / ADAS\AD Domain Controller
-CDC,Cockpit Domain Controller
-VDC,Vehicle Domain Controller
-ASIL,Automotive Safety Integration Level
-VFB,Virtual Function Bus
-IRV,Inter Runnable Variable
-arxml,AUTOSAR Extensible Markup Language
-SCD,System Constraint Description
-SCD,System Configuration Description
-DI,Digital Input
-DO,Digital Output
-ADC,Analog-to-Digital Converter
-PWM,Pulse Width Modulation
-ICU,Input Capture Unit
-PPort,Provided Port
-RPort,Received Port
-PRPort,Provided and Received Port
-MBD,Model-Based Design
-MCAL,Microcontroller Abstraction Layer
-µC,Microcontroller
-LIM,Speed Limiter
-Loc.HD,Localization HD
-Loc.SD,Localization SD
-LPU,Laser Processing Unit
-LRR,Long Range Radar
-DEFE,Driver Emotion Facial Expression
-RSU,Road Side Unit
-MEC,Multi-access Edge Computing
-OBU,On Board Unit
-AAA,Anhängerankuppelassistent
-ABA,Abbiegeassistent
-ADA,Attention and Drowsiness Assist
-AEB PR,Autonomous Emergency Braking Pedestrian Rear
-AIO,Ampelinfo Online
-aLDW,Active Lane Departure Warning
-AMP,Assist Motion Planer
-AR,Augmented Reality
-ARA,Anhängerrangierassistent
-ASG,Antriebssteuergerät
-ASW,Ausstiegswarnung
-AWU,Ausweichunterstützung
-AWV,Anhaltewegverkürzung
-DCOM,Data Collector Order Manager
-MDC,Master Data Catalog
-BV,Bildverarbeitung
-CDX,Car Data Exchange
-CSS,Crashschwereschätzer
-DAF,Datenaufzeichnungsfunktion
-DASDM,Driver Assistance Systems Display Manager
-DML,Digitales Matrixlicht
-DMPLR,Driving Manoeuvre Prediction Long Range
-DRE,Driving Resistance Estimation (Masse- und Fahrwiderstand)
-DV,Datenverarbeitung
-EA,Emergency Assist
-EHR/AHR,Electronic Horizon Reconstructor/ADAS Horizon Reconstructor
-EML,Ego Motion and Location
-FBK,Fahrerbeobachtungskamera
-FLA,Fernlichtassistent
-GRA,Geschwindigkeitsregelanlage
-HAF,Hochautomatisiertes Fahren
-HCP,High Performance Computing Platform
-HD,High Definition
-HP,High Performance
-IDD,Intelligent Damage Detection
-IPA,Intelligent Park Assist
-ISA,Intelligent Speed Assist
-KA,Kreuzungsassistent
-KFF,Kundenfahrzeugfunktion
-KSSG,Kontaktsensorik-Steuergerät
-LA,Lane Assist
-LF,Lane Fusion
-LGI,Lokale Gefahreninformation
-LGW,Lokale Gefahrenwarnung
-MA,Manövrierassistent
-MFK,Multifunktionskamera
-MKE,Müdigkeitserkennung
-MRR,Medium Range Radar
-MSG,Motorsteuergerät
-MXB,Matrixbeam
-PaKo,Parkkoordinator
-PCB,PreCrash Basis
-PCC,PreCrash Connect
-PCF,PreCrash Front
-PCH,PreCrash Heck (back)
-PCS,PreCrash Seite (side)
-PDC,Park Distance Control
-PEA,Prädiktiver Effizienzassistent
-PHA,Parkhausassistent
-PHP,Parkhauspilot
-PPF,Parkplattform
-PSD,Prädiktive Streckendaten
-RCTA,Rear Cross Traffic Alert
-RDK,Reifendruckkontrolle
-REM,Road Experience Management
-RG,Roadgraph
-RPA,Remote Park Assist
-SAM,Sensor-Aktor-Module
-SDF,Sensordatenfusion
-SHPS,Straßenhöhenprofilschätzung
-SR,Scenario Recognition
-SWA,Spurwechselassistent
-TA,Travel Assist
-TPA,Trained Parking Assist
-TVC,Target Value Calculator
-TSF,Traffic Sign Fusion
-USS,User State Server
-USSG,Unterbodensensorik-Steuergerät
-VMM,Vehicle Motion Manager
-VZE,Verkehrszeichen Erkennung
-VZF,Verkehrszeichen Fusion
-VZO,Verkehrszeichen Online
-PMIC,Power Management Integrated Circuit
-µP,microprocessor
-HSM,Hardware Security Module
-MMU,Memory Management Unit 
-PHM,Platform Health Management 
-UCM,Update and Configuration Management
-CDD,Complex Device Driver
-ADAP,Autonomous Driving . Autonomous Parking
-AHS,Automatic Heatlamp Setting
-AP,Autonomous Parking
-AP,Adaptive Platform
-BD,Blindness Detection
-CAL,Camera Calibration
-cECU,Central Electronic Control Unit
-DM,Driver Monitoring
-DNH,Driver Notification Handler
-DSI,Driving State Interpretation (Fahrzustandsinterpretation)
-DWM,Driver Warning Manager
-ESM,Egomotion and Surface Mode
-HZD,Hazard Detection
-LDA,Lane Detection Algorithms
-MRR,Medium Range Radar
-MSR,Monocular Scene Reconstruction
-OD,Object Detection
-PaCo,Parking Coordinator
-PED,Pedestrian Detection
-PLP,Prädiktive Längsplanung
-RBF,Rangierbremsfunktion
-RHP,Rush Hour Pilot
-RPE,Road Profile Estimation
-RVC,Rear View Camera
-SAR,Sensor Actor Rear
-sECU,sensor Electronic Control Unit
-SG,Steuergerät
-TM,Transceiver Modul
-TSK,Triebstrangkoordinator
-TSR,Traffic Sign Recognition
-TV,TopView
-VDFE,Vehicle Dynamics Friction Estimator (Fahrdyn. Reibwertschätzer)
-VDSO,Vehicle Driving State Observer
-vFGS,Vorausschauender Fußgängerschutz
-VMMP,VMM Primary
-VMMS,VMM Secondary
-vRFS,Vorausschauender Radfahrerschutz
-WBA,Warnen-Bremsen-Ausweichen
-A2B,Automotive Audio Bus
-A3NF,A3 Neufahrzeug
-AKE,Authentication Key Exchange
-IVC,inter-VM communication
-DWAP,DWA Push 
-FBU,Fully Built-Up
-IBD,Inbound Dispatcher
-LH,(Geo Data) Mapping License Holder
-LL,Low Level 
-LUM,Local Update Manager
-MDC,Mobile Data Center
-MDK,Mobile Digital Key
-MQTT,Message Queuing Telemetry Transport
-OBD,Outbound Dispatcher
-ODP 1.0,Correct name for MBB L&S
-PSO,Personalization online
-RTM,Real-Time Monitoring
-SDK,Software Development Kit
-SPOC,Single Point of Contact
-SUU,Statischer Umfelddaten Uploader
-SVL,Stolen Vehicle Locator
-SWF,SW Freigabe
-TSS,Telematics Shared Services
-VW.OS,Volkswagen Operation System (in car)
-SPE,Sports Platform Electric
-HFOV,Horizontal Field of View
-VFOV,Vertical Field of View
-DFOV,Display Field of View
-NOA,Navigate on Autopilot
-NOP,Navigation on Pilot
-NGP,Navigation Guided Pilot
-HOG,Histogram of Oriented Gradients
-SVM,Support Vector Machine
-DMC,Driver Monitoring Camera
-DMS,Driver Monitoring System
-OMC,Occupant Monitoring Camera
-OMS,Occupant Monitoring System
-PoC,Power over Coax
-CLB,Child Left Behind
-ICM,Instrument Cluster Module
-HUM,Head Unit Module
-FOSS,Free and Open Source Software
-RTG,Real-Time-Gathering
-EHP/AHP,Electronic Horizon Provider/ADAS Horizon Provider
-ADASIS,Advanced Driver Assistant System Interface Specifications
-ASR,Adaptive Speed Recommendation
-PR,Product Request
-MPP,Most Prefere Path
-GPL,General Purpose Language
-DSL,Domain Specific Language
-CDS,Chassis Domain System
-EPS,Electronic Power Steering
-NHTSA,National Highway Traffic Safety Administration
-BSM,Blind Spot Monitoring
-ACS,Advanced Cruise System
-TJP,Traffic Jam Pilot
-DPI,Deep Packet Inspection
-MAC,Message Authentication Code
-HBA,Hydraulic Brake Assist
-HHC,Hill Hold Control
-ODD,Operational Design Domain 
-WSS,Wheel Speed Sensors
-SOC,State Of Charge
-NSF,New Small Family
-MLB/MLP,Modularer L Ngsbaukasten/Modular Longitudinal Platform
-MSB,Modular Standard Drivetrain Toolkit
-MNB,Modular Commercial Vehicles Toolkit
-MMB,Modulare Mittel Baukasten
-MPB,Modular Production System
-TNGA,Toyota New Global Architecture
-CMA,Compact Modular Architecture
-MEC,Multi-access Edge Computing
-TISA,Traveller Information Services Association
-TN-ITS,Transport Network – Intelligent Transport Systems
-ITS,Intelligent Transport Systems
-OADF,Open AutoDrive Forum
-TMC,Traffic Message Channel
-RDS,Radio Data System
-TPEG,Transport Protocol Experts Group
-RDS,Relational Data Script
-PDG,Product Definition Group
-PSF,Physical Storage Format
-GNSS,Global Navigation Satellite System
-MIF,MapInfo Interchange File
-DMI,Distance Measuring Indicator
-LACE,Lean Aglie Center for Excellence
-PPS,Precise Positioning Service
-SPS,Standard Positioning Service
-ECNR,Echo Cancellation & Noise Reduction
-ANC,Active Noise Cancellation
-RTK,Real Time Kinematic
-SLAM,Simultaneous Localization And Mapping
-ALKS,Automated Lane Keeping System
-AVM,Around View Monitor
-POS,Part Of Speech
-CDD,Conversation-Driven Development
-LAH,Lastenheft
-DnA,Data and Analytics
-BSM,Basic Safety Message
-SSP,Scalable Systems Platform
-SCP,Scalable Compute Platform
-ICB,Instrument Communication Bus interface
-AXI,Advanced eXtensible Interface
-AMBA,Advanced Microcontroller Bus Architecture
-OBD,On Board Diagnostics
-TME,Thermo Management
-ICB,INTER-Connect Board
-AMC,Advanced Mezzanine Cards
-UART,Universal Asynchronous Receiver/Transmitter
-TDM,Time-Division Multiplexing
-BN/EN/ION,Base Node/Extension Node/IO Node
-HMD,Head-Mounted Display
-TPB,Technical Product Book
-CARIAD,Car. I Am Digital
-MHEV,Mild Hybrid Electric Vehicle
-PHEV,Plug-in Hybrid Electric Vehicle
-CNG,Compressed Natural Gas
-RSS,Responsibility Sensitive Safety
-ESI,External Sensor Interface
-ACSM,Advanced Crash Safety Module
-BDC,Body Domain Controller
-DCS,Driver Camera System
-DME,Digital Motor Electronics
-DSC,Dynamic Stability Control
-EARSH,Electric active roll stabilization rear
-EARSV,Electric active roll stabilization front
-EGS,Electronic transmission control
-EHC,Electronic ride height control
-EPS,Electromechanical Power Steering
-FBD,Remote control receiver
-FLER,Frontal Light Electronics Right
-FLEL,Frontal Light Electronics Left
-FRS,Front radar sensor
-FRSF,Front radar sensor long range
-FZD,Roof function centre
-GHAS,Regulated rear axle differential lock
-GWS,Gear selector switch
-HU-H,Head Unit High
-HKFM,Tailgate function module
-HRSNL,Rear radar sensor short range left
-HRSNR,Rear radar sensor short range right
-IHKA,Integrated automatic heating / air conditioning
-KAFAS,Camera-based driver assistance systems
-KOMBI,Instrument cluster
-NFC,Near Field Communication
-PCU,Power Control Unit
-PMA,Parking Manoeuvring Assistant
-RFK,Rear view camera
-RAM,Receiver Audio Module
-RSE,Rear Seat Entertainment
-SAS,Optional equipment system
-SMBF,Front passenger seat module
-SMFAH,Rear driver's side seat module
-SMBFH,Rear driver's side seat module
-SMFA,Driver's seat module
-SPNMVL,Seat pneumatics module front left
-SPNMVR,Seat pneumatics module front right
-SRSNVL,Side radar sensor short range front left
-SRSNVR,Side radar sensor short range front right
-TCB,Telematic Communication Box
-TRSVC,Top rear side view camera
-VDP,Vertical Dynamic Platform
-VIP,Virtual Integration Platform
-VTG,Transfer box
-WCA/NFC,Wireless charging station with control electronics for Near Field Communication
-ZGM,Central Gateway Module
-SZL,Steering column switch cluster
-CID,Central Information Display
-RLSBS,Rain-light-solar-condensation sensor
-LDAP,Lightweight Directory Access Protocol
-MOM,Manufacturing Operation Management
-DDS,Data Distribution Software
-IPCF,Inter-Platform Communication Framework
-SVA,Smart Vehicle Architecture
-PDC,Power Data Center
-OSP,Open Server Platform
-AOSP,Android Open Source Project
-GAS,Google Automotive Services
-CMIS,Content Management Interoperability Services
-A2DP,Audio Data for Playback
-AVRCP,AV Remote Control Target
-HFP,Hands-free Gateway
-PBAP,Phonebook Data
-MAP,Message Data
-BOM,Bill Of Material
-CCM,Central Control Module
-SGP,Smart Gateway Platform
-MII,Media Independent Interface
-GSR,General Safety Regulation
-LIN,Local Interconnect Network
-IDCM,Information Domain Control Module
-VSP,Vehicle Sensoring Platform
-WPC,Wireless Phone Charging
-ARC,Augmented Reality Creator
-ARHUD,Augmented Reality Head Up Display
-AMM,AMbience light Module
-AML,AMbience Light
-MIC,MICrophone
-SR,Smart Robot
-AMP,AMPifier
-ICD,Instrument Cluster Display
-CID,Central Infortainment Display
-MFP,Multi Function Panel
-IEM,Interior E-Mirror
-EMD,E-Mirror Display
-WHUD,Windshield Head Up Display
-DVR,Digital Video Recorder
-TCU,Tele Communication Unit
-MADE,Mobility/Autonomous/Digitalization/Electrification
-TSP,Telematics Service Provider
-BAF,Boot  Assisted  Flash
-MPU,Memory  Protection  Unit
-DCF,Device  Configuration  Field
-BSP,Business Service Platform
-MSG,Mobile Service Gateway
-TSS,Telemetry Shared Service
-P&P,Profile & Preference
-CSP,Cryptograhic Service Provider
-UOTA,Update Over The Air
-VKMS,Vehicle Key Management System
-VTTL,Vehicle Transaction Type List
-CSA,certificate authority
-R&P,register and pairing
-IMEI,international Mobile Equipment identity
-IMSI,international Mobile Subscriber identity
-KL15,Klemme15
-KL30,Klemme30
-ASM,Assistent System Monitor
-APS,Acoustic Parking System
-DRS,Drehratensensor
-EIC,Event and image collector
-EPH,Einparkhilfe
-IDC,Intelligent data collector
-KS,Komponentenschutz
-OPS,Optical Parking System
-OSS,Occupant State Server
-OSH,Occupant State HMI
-PLARA,PLA für ARA
-PLT,Precise Local Time
-RA,Reversing Assist
-TAD,Trailer-Angle-Detection
-TLT,Trustworthy Local Time
-ILM,IVI LayerManagement
-WAC,Web App Controller
-PTT,Push To Talk
-ROS,Robot Operating System
-iSSW,Infotainment-Setz-Software
-OCU4,Online Connectivity Unit 4th generation
-PU/PUC/PUR,Primary User / PrimaryUser Client / Primary User Revocation
-BAP,Bedien-Anzeige-Protokoll
-OR,Online Registration
-FRC,Factory Reset Controller
-NM,Notification Manager
-ABT,Anzeige-Bedien-Teil
-VI,Vehicle-Integration
-ME1/2/3,Market Entrance 1/2/3
-MSC,Message Sequence Chart
-NVM,Non-Volatile Memory
-VUL,Vehicle User List
-AL,Authentication Level
-ATNE,Aktiver Teilnehmer Ergonomie
-CBC,Cipher Block Chaining
-CFA,Car Function Adapter
-CI,Car Interface 
-CMAC,Cipher-based Message Authentication Code
-DF,Datenfestlegung 
-FFB,Funkfernbedienung
-GW,Gateway
-MMI,Multi-Media Interface
-OCU3H / OCU3L,Online Connectivity Unit (third generation) High / Low
-PKCS,Public Key Cryptography Standards
-SDS,Sprachdialogsystem
-SPIN,Security Personal Identification Number
-VKMS,Volkswagen Key Management System
-ULH,User List Handler
-ZSB,Zusammenbauteil
-ZR,Zentralrechner
-ZFAS,Zentrale Fahrer Assistenz System
-VRS,Vehicle Readiness Sound
-VICS,Vehicle Information and Communication System
-USB-SS,Universal Serial Bus Super Speed
-UFS,Universal Flash Storage
-TPM[S],Tire Pressure Monitoring [System] (in German: RDK[S])
-TDM,Time Division Multiplexing
-SDIS,Smart Display
-SDC,Smart Display Carrier
-SCON,Smart Remote Control
-SCC,Smart Control Carrier
-RSB,Radio Sound Box
-ROW,Rest Of World
-RDW,Rest der Welt
-QVGA,Quarter Video Graphics Array
-PDC,Park Distance Control
-PCIe,Peripheral Component Interconnect Express
-PA,Produktaufwertung
-NAR,Northern American market region
-NAD,Network Attached Device
-MRC,Maximum Ratio Combining
-HSIF,High Speed Interface
-RSC,Radio Sound Controller
-DSI,Display Serial Interface
-SSE,Speech Signal Enhancement
-IOC,IO Companion
-CCD,Climate Control Display
-SIP,Signal Interface Provider
-RSTP,Rapid Spanning Tree Protocol
-MCC,Modular Cockpit Computer
-MEC,Manual Emergency Call
-ACN,Automatic Crash Notification
-FPA,Fahrprofilauswahl
-EMHLR,ehemals NVEM
-CDP,Client Domain Proxy
-GP,Gateway Proxy
-SITM,sSOA-ID-Token Manager
-CDAA,Client Domain App Authentication
-PPC,Primary Permission Check
-SPC,Secondary Permission Check
-SWC,Software Component
-DSA,Diagnostic Service Application
-sSOA,Secure SOA
-QoS,Quality of Service
-UDS,Unix Domain Sockets
-SP,Service Provider
-VAL,Vehicle Abstraction Layer
-CSA,Core Services Authentication
-CSR,Certificate Signing Request
-AzS,Authorization Server
-ZeC,Zone electric Controller
-SCP,Scalable Compute Platform
-AU,Aggregator Unit
-ICP,Infotainment & Connect Platform
-ConMod,BT-Verbindung Smartphone
-KLS,Klemmensteuerung
-AAG,Anhängersteuergerät
-RLS,Regenlichtsensor
-TSG,Türsteuergerät
-MVC,Multi-View Camera System
-AQI,Air Quality Index
-POA,Proposal of Award
-PTT,Push to talk
-SIFT,Scale-invariant feature transform
-SVA,Smoothly Varying Affine
-CSI,Camera Serial Interface
-CCI,Camera Control Interface
-UFS,Universal Flash Storage
-CCS,Camera Command Set
-EMI,ElectroMagnetic Interference
-SSDP,Simple Service Discover Protocol
-DLNA,Digital Living Network Alliance
-DMS,Digital Media Server
-DMR,Digital Media Render
-DMC,Digital Media Controller
-DMP,Digital Media Player
-CC EAL,Common Criteria Evaluation Assurance Level
-GMSL,Gigabit Multimedia Serial Link
-IATF,International Automotive Task Force
-ASPICE,Automotive Software Process Improvement and Capability Etermination
-AVS,Alexa Voice SDK/Service
-FPD,Flat Panel Display
-GMSL,Gigabit Multimedia Serial Link
-ISP,Image Signal Processor
-LVDS,Low-Voltage Differential Signaling
-CMOS,Complementary Metal Oxide Semiconductor
-CCD,Charge Coupled Device
-DVP,Digital Video Port
-BSI,Back Side Illuminated
-RGMII,Reduced Gigabit Media Independent Interface
-SR,Service Registry
-LEL,Login Enrollment Light
-ICE,Internal Combustion Engine
-OSS,Online Service Supplier
-MFA,Multi-Functions display
-MFL,Multi-Funktions Lenkrad
-TP,Transport protocol
-VDA,The German Association of the Automotive Industry
-EOP,End of production
-ASSY,Assembly
-TM,Three-dimensional Part model
-TL,Technical Supply Specification
-COP,Carry over part
-EKR,Electronic components reduced – DMU product data type
-DMU,Digital Mock-Up
-SKs,Soft Keys
-DSSO,Digital Sales & Service Organization
-DD,Download Descriptor
-PS,Project Start
-PF,Project Feasibility
-KF,Konzept-Freeze
-DF,Design-Freeze
-BF,B-Freigabe / Beschaffungsfreigabe / Procurement Release
-LF,Launch-Freigabe / Launch-Release
-VFF,Vorserien-Freigabe Fahrzeug / Pre-series release vehicle
-PVS,Produktions-Versuchs-Serie / Production Trial Series
-0S,Zero Series
-SOP,Start of Production
-ME,Market Entry
-EOP,End of Production
-EOS,End of Service
-DISS,Direct Information System Service
-RESERVE,Repair and Service Events
-KPM,Konzern Problem Management
-AQUA,Aktive Qualitäts-Analyse/Active Quality Analysis
-AVON,AenderungsVerfolgung Online
-KBP,Konzern Business Plattform
-B2B,Business to Business
-VCS,Volkswagen Computer System 
-GSSD,Group Service Systems & Diagnostics
-GTV,Gewährleistungs-Teile-Verwaltung
-HST2,Handbuch Service Technik
-KVPS,Konzern Vertriebs Partner Stammdaten
-ICB,Intelligent Cockpit and Body
-SVM,Software Version Management
-TSB,Technical Service Bulletin
-TCM,Transmission Control Module
-XCHG,exchange
-ETKA,Ersatzteil & Katalog
-ASAM,Association for Standardization of Automation and Measuring Systems
-VAS,Volkswagen Automotive Service Equipment
-ZUG,a German word for train
-ODIS,Offboard Diagnostic Information System
-ECM,Engine Control Module
-CARPORT,The database that stores the last known good configuration for each VIN
-ASAM-MCD,ASAM - Measurement
-Service42,Server hosting the SVM application
-Version42,Engineering database hosting the ECU data and configuration files
-FAM,Fahrzeug Aggregate Management
-GSSD,Group Service Systems Diagnosis
-DIAS,Digital After Sales
-PPSO,Package Price System Online
-SEM,Search Engine Marketing
-SEA,Search Engine Advertising
-SEO,Search Engine Optimization
-DDM,Data Driven Marketing
-PAT,Predictive Analytics Tool
-AST,Appointment Scheduling Tool
-BZD,Bauzustandsdokumentation
-DMC,Data Matrix Code
-ZDC,Zieldatencontainer
-GIBS,GewichtsInformations - und BerechnungsSystem
-OPR / ROA,AssistanceCallService – Online Pannenruf
-ETRNRP,ETronRoutePlanningService 
-PNC,PlugAndChargeService 
-FAL,Frontend Abstraction Layer
-MAL ,
-IVS,In-Vehicle System
-PSAP,Public Safety Answering Point 
-MSD,Minimum Set of Data
-NSA,National Security Agency
-CSS,Central Security Service
-CNO,Computer Network Operations
-LSM,Linux Security Model
-TEE,Trusted Execution Environment
-oKVS,Online Key-Value-Store
-FM,Function Master
-UI,User images
-CDN,Content Delivery Network 
-ASGs,Anzeige-Steuergeräte
-GEM,Green Engineering Menu
-HLSWA,High Level Software Architecture
-OCI,Open Container Initiative
-URM,User Relations Management
-KGAS,Konzern Grundanforderungen Software
-CARIAD SE,CAR
-FACT,Full-Attention Cross-modal Transformer
-SMPL,Skinned Multi-Person Linear Model
-BPM,Beat Per Minute
-MPJPE,Mean Per Joint Position Error
-FID,Frechet Inception Distance
-CAT,Cariad App Toolkit
-CTC,Connectionist temporal classification
-IoU,Intersection over Union
-CaaS,Communications-as-a-Service
-OTD,Order To Delivery
-LBS,Linear Blend Skinning
-GRU,Gated Recurrent Unit
-VAE,Variational Auto Encoder
-ToU,Type of User
-SAFe,Scaled Agile Framework
-CBS,Charging Business Service
-FCM,Firebase Cloud Messaging
-AC,Access Control
-AT,Awareness and Training
-AU,Audit
-CM,Configuration Management
-CP,Contingency Planning
-IA,Identification and Authentication
-IP,Individual Participation
-IR,Incident Responses
-MA,Maintenance
-PL,Planning
-RA,Risk Assessment
-SA,System and Services Acquisition
-SC,System and Communications Protection
-SI,System and Information Integrity
-LIMEO,reverse of OEMIL
-TOTP,Time-based One-time Password Algorithms
-HOTP,HMAC-Based One-Time Password Algorithm
-OIDC,OpenId Connect
-GCM,Google Cloud Message
-URDF,Unified Robot Description Format
-RViz,ROS Visualization Tool 
-DDS,Data Distribution Service
-OMG,Object Management Group
-RTPS,Real Time Publish Subscribe
-MSG,Mobile Service Gateway
-PNS,Push Notification Service
-AnNa,Android Native
-WAC,Web App Controller
-TSM,Trusted Service Manager
-ART,Agile Release Trains
-EVACS,Enable Vehicle And Customer Services
-RTE,Release Train Engineer
-ADD,Architecture Definition Document
-DoR,Definition of Ready
-APO,Area Product Owner
-PCO,Project Controlling Office
-ENR,Enrollment
-LEI,Login Enrollment Light
-ICE,In-Car Login Enrollment
-CVD,Customer Verified Data
-LEE,Legal Entity
-PU,Primary User
-VUR,Vehicle User Relation
-SR,State Report
-TBS,Telematics Backend System
-LoM,Level of Maturity
-BCCM,Battery Charging Care Mode
-VIL,Vehicle Integration Layer
-VILMA,Vehicle Image Library Media Access
-GSB,Group Service Bus
-SIR,Service Implementation Request
-GITC,Group IT Cloud
-GSBR,Group Service Bus Registry 
-iHDCC,intelligent High Definition Car Configurator
-MY,Model Year
-TAM,Technical Account Management
-FIN,Fahrzeug Identifikations Nummer
-PS vehicle,Pre-series vehicle
-0S vehicle,Zero Series vehicle
-VWN,Stands for Volkswagen Commercial Vehicles
-ZP8,Point of delivery 8 
-RWM,Reichweiten Management
-PUR,Primary User Reset
-UHL,User Handler List
-SAT,System Access Token
-UAT,User Access Token
-PAT,Personalized Access Token
-OKVS,Online Key Vehicle Store
-AGT,Access Grant Token
-LAVIN,Lean Automotive Vehicle Integration Network
-IEB,Information Exchange Bus
-CMS,Charge Mode Selection
-DPP,Digital Production Platform
-BP,Basic Platform
-AZK,Anzeigekoordinator
-IVOS,In-Vehicle Operating System
-VCOS,Vehicle-Controlled Operating System
-PSD,Prädiktive Strecken Daten
-DWAP,Diebstahlwarnanlage push
-GEO,Geofence (virtual fence)
-RSA,Remote Speed Alert
-FoD,Feature on Demand
-DKY,Digital Key
-DMS,Dealer Maintenance Scheduling
-REM,Roadside Experience Manager
-RPC,Remote Pretrip Climatization
-RPT,Remote Profile and Timer Programming
-RBC,Remote Battery Charging
-PnC,Plug & Charge Online
-SCS,Smart Charging Statistics
-RHF,Remote Honk & Flash
-ATM,Authentic Time Manager
-SCR,Smart Charging Rates
-RLU,Remote Lock Unlock
-ORU,Online Remote Update
-TKOV,Two Key Owner Verifikation
-SCM,Service Configuration Matrix
-PrM,Predictive Maintenance
-ELV,Lenksaulensperre
-ZAT,Holografischer Start/Stop Schalter
-XOA,user eXperience Oriented Architecture
-MLaaS,Monitoring Logging as a Service
-SWMS,Software Management Server
-ID.S,ID Software
-Kessy,Keyless Entry Start & Exit Security System
-PEPS,Passive Entry & Passive Start
-REK,Remote Keyless Entry
-PKE,Passive Keyless Entry
-RF,Radio Frequency
-RFID,Radio Frequency Identity
-EMC,Electro Magnetic Compatibility
-EMS,Engine Management System
-IMMO,Immobilizer
-LF,Low Frequency
-SSB,Start Stop Button
-RSSI,Received Signal Strength Indication
-PDM,Power Distribution Module
-TDS,Tenant Discovery Service
-SAS,System Authorization Service
-MDFF,Master Data Factory Feed
-VCM,Vehicle Configuration Manager
-DMD,Device Master Data
-EVACS,Enable Vehicle & Customer Services
-ART,Agile Release Train
-PI,Program Increment
-ICC,Infotainment Cockpit Cluster
-SWMS,Software Management Server
-OCM,Operation Configuration Manager
-TAM,Transaction Activation Manager
-CFES,Central Function Enabling System
-CAA,Consent Activation Adapter
-VCM,Vehicle Capability Management
-2FM,Second Factor Management
-VTATL,Vehicle Transaction Activation Type List
-VCTL,Vehicle Configuration Type List
-PAR,Product Activation Report
-PAM,Product Activation Manager
-UCJ,Use Case Journey
-DSR,Data Subject Rights
-CCP,Connectivity Communication Parameter
-TCU,Vehicles Telematics Unit
-VIS,Vehicle Integration Service
-VISC,Vehicle Integration Service Controller
-MRIP,Message Routing Information Provider 
-VCM,Vehicle Capability Management
-MDG,Master Data Gateway
-DPAP,Device Platform Admin Portal
-VKMS,Vehicle Key Management System
-DLC,Download Container
-R&P,Register & Pairing
-CES,Commercial Enrollment Service
-PSAP,Public Safety Answering Point
-TAR,Transaction Activation Report
-PLA,Power Level Adapter
-PII,Personally Identifiable Information
-MDM,Mobile Device Management
-AzS,Authorization Server
-APM,Application Performance Monitoring
-ARN,Amazon Resource Name
-AVV,Auftragsdatenverarbitungsvertrag
-BEV,Battery Electric Vehicle
-BLE,Bluetooth Low Emmisions
-CAP,Consumer Analytics Platform
-CBS,Charging Business Service
-CCF,Customer Care Frontend
-CDB,Car Data Brokerage
-CDC CA,CDC Control Application
-CDIS,Car Data Information System
-CMP,Customer Mobility Platform
-HC,Health Check
-CPP,Cyber Physical Products
-CSR,Certificate Signing Request
-CSI,Cyber Security Incident
-CAP,Customer Application Platform
-CWP,Customer Web Portal
-DA,Diagnostic Address
-ASAM,Association for Standardisation of Automation and Measuring
-DLQ,Dead Letter Queue
-DPR,Draft Plan Review
-DSD,Datenschutzsachverhaltsdokumentation
-EDC,Enterprise Data Catalog
-FAW,First Automobile Works
-FDC,FleetDataCollector
-FNS,Frontend Notification Service
-FoD,Function on Demand
-FOSS,Free and Open Source Software
-OSO,Open Source Office
-FV,Fix Version
-GDC,Generic Document Consent
-GrM,Group Module
-GSL,Group Secure Login
-HIL,Hardware in the Loop
-HPC,Hyper Performance Computing
-HSN,Herstellerschlüsselnummer
-TSN,Typschlüsselnummer
-INT,INT environment
-IPM,Iteration Planning Meeting
-ITR,Infotainment Recorder
-JV,Joint Venture
-JWT,JSON Web Token
-K-UMS,Konzern User Management System
-LEE,Legal Entity
-LoC,Lines of Code
-LPM,Lean Portfolio Management
-MELT,Metrics
-MENA,Middle East and North Afric
-MHEV,Mild Hybrid Electric Vehicle
-MI,Major Incidents
-MaaS,Mobility as a Service
-MNP,Message Notification Platform
-Mole,a service name
-MT,Multitenancy
-NAR,North America
-NRC,Negative Response Code
-NSC,National Service Company
-oKVS,online KeyValue Store
-ODX ,Open Diagnostic eXchange
-OPR,Online Pannen Ruf
-PDX,Packaged Data eXchange
-PL,Passenger Longitudinal Engine
-PQ,Passenger Transverse Engine
-PHEV,Plug-in Hybrid Electric Vehicle
-PIPE,PI Planning Event
-PLM,Proactive Lead Management 
-PMSP,Product Management Service Platform
-PM,Predictive Maintanance
-TOGAF,The Open Group Architecture Framework
-PSP,Preferred Service Provider
-R-SAFE,Road Side Assistance FrontEnd
-RAC,Roadside Assistance Call
-RAH,RemoteStandheizung
-R&P,Register and Pairing
-RTE,Release Train Engineer
-ART,Agile Release Train
-S&Q,Service and Quality
-SCS,Smart Charging Statistics
-SCT,Smart Charging Tariffs
-SoC,State of Charge
-SRE,Site Reliability Engineering
-TT,TingleTour
-VAS,Vehicle Activation Service
-VID,VID
-VIN,Vehicle Identification Number
-VCI,Vehicle Communication Interface
-WCG,We Connect Go
-VDQS,Verified Data Qualification Service
-VGC,Volkswagen Group China
-VWFS,VW Financial Services
-WCG,WeConnectGo
-WECG,WeConnectGo
-WSJF,Weighted Shortest Job First
-zFDI,zentraler Fahrzeugdaten Interpreter
-CCB,Change Control Board
-ICP,Infortaiment Computing Platform
-GP,Großes Produkt-Upgrade
-WBL,Web Based Login
-FIS,Fertigungs Infomations-und Steuerungssystem
-UPS,Universelles Prüfsystem
-ICC,Infotainment & Cockpit Computer
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+en,µC,Microcontroller,1,,,,
+en,µP,microprocessor,2,,,,
+en,0S,Zero Series,3,,,,
+en,0S vehicle,Zero Series vehicle,4,,,,
+en,2FA,Two Factor Authentication,5,,,,
+en,2FM,Second Factor Management,6,,,,
+en,A2B,Automotive Audio Bus,7,,,,
+en,A2DP,Audio Data for Playback,8,,,,
+en,A3NF,A3 Neufahrzeug,9,,,,
+en,AAA,Anhängerankuppelassistent,10,,,,
+en,AAG,Anhängersteuergerät,11,,,,
+en,AAI,Automotive Artificial Intelligence,12,,,,
+en,ABA,Abbiegeassistent,13,,,,
+en,ABP,AutoBahnPilot,14,,,,
+en,ABS,Anti-lock Braking System,15,,,,
+en,ABT,Anzeige-Bedien-Teil,16,,,,
+en,AC,Access Control,17,,,,
+en,ACA,Adaptive Cruise Assist,18,,,,
+en,ACC,Adaptive Cruise Control,19,,,,
+en,ACK,Audi Connect Key 2.0,20,,,,
+en,ACN,Automatic Crash Notification,21,,,,
+en,ACS,Advanced Cruise System,22,,,,
+en,ACSM,Advanced Crash Safety Module,23,,,,
+en,ADA,Attention and Drowsiness Assist,24,,,,
+en,ADAP,Autonomous Driving . Autonomous Parking,25,,,,
+en,ADAS,Advanced Driver Assistant System,26,,,,
+en,ADASIS,Advanced Driver Assistant System Interface Specifications,27,,,,
+en,ADC,Analog-to-Digital Converter,28,,,,
+en,ADD,Architecture Definition Document ,29,,,,
+en,ADD,Architecture Definition Document,30,,,,
+en,ADL,Architecture Description Language,31,,,,
+en,ADO,Azure DevOps,32,,,,
+en,ADP,Autonomous Driving Platform/Automated Driving Platform,33,,,,
+en,ADTF,Automotive Data and Time-Triggered Framework,34,,,,
+en,ADx,Autononous Driving Accelerator,35,,,,
+en,AEB,Autonomous Emergency Braking,36,,,,
+en,AEB PR,Autonomous Emergency Braking Pedestrian Rear,37,,,,
+en,AEC,Acoustic Echo Cancellation,38,,,,
+en,AEM,Adobe Experience Manager,39,,,,
+en,AES,Automotive Embedded System,40,,,,
+en,AFS,Adaptive Front-lighting System,41,,,,
+en,AG,Aktien Gesellschaft,42,,,,
+en,AGT,Access Grant Token,43,,,,
+en,AHS,Automatic Heatlamp Setting,44,,,,
+en,AIDL,Android Interface Define Language,45,,,,
+en,AIO,Ampelinfo Online,46,,,,
+en,AISP,Account Information Service Providers,47,,,,
+en,AKE,Authentication Key Exchange,48,,,,
+en,AKS,Azure Kubernetes Service,49,,,,
+en,AL,Authentication Level,50,,,,
+en,aLDW,Active Lane Departure Warning,51,,,,
+en,ALKS,Automated Lane Keeping System,52,,,,
+en,AM,Audio Manager,53,,,,
+en,AM,Acoustic Model,54,,,,
+en,AMB,Automotive Message Broker,55,,,,
+en,AMBA,Advanced Microcontroller Bus Architecture,56,,,,
+en,AMC,Advanced Mezzanine Cards,57,,,,
+en,AML,Anti-Money Laundering,58,,,,
+en,AML,AMbience Light,59,,,,
+en,AMM,AMbience light Module,60,,,,
+en,AMP,Assist Motion Planer,61,,,,
+en,AMP,AMPifier,62,,,,
+en,AMS,Application Management System,63,,,,
+en,ANC,Active Noise Cancellation,64,,,,
+en,AnNa,Android Native,65,,,,
+en,AOSP,Android Open Source Project,66,,,,
+en,AOSP,Android Open Source Project,67,,,,
+en,AP,Autonomous Parking,68,,,,
+en,AP,Adaptive Platform,69,,,,
+en,API,Application Programming Interface,70,,,,
+en,APM,Application Performance Monitoring,71,,,,
+en,APNS,Apple Push Notification Service,72,,,,
+en,APO,Area Product Owner,73,,,,
+en,APS,Acoustic Parking System,74,,,,
+en,AQI,Air Quality Index,75,,,,
+en,AQUA,Aktive Qualitäts-Analyse/Active Quality Analysis,76,,,,
+en,AR,Augmented Reality,77,,,,
+en,ARA,AUTOSAR Runtime for Adaptive Applications,78,,,,
+en,ARA,Anhängerrangierassistent,79,,,,
+en,ARC,Augmented Reality Creator,80,,,,
+en,ARHUD,Augmented Reality Head Up Display,81,,,,
+en,ARN,Amazon Resource Name,82,,,,
+en,ART,Agile Release Trains,83,,,,
+en,ART,Agile Release Train,84,,,,
+en,ART,Agile Release Train,85,,,,
+en,arxml,AUTOSAR Extensible Markup Language,86,,,,
+en,ASAM,Association for Standardization of Automation and Measuring Systems,87,,,,
+en,ASAM,Association for Standardisation of Automation and Measuring,88,,,,
+en,ASAM-MCD,ASAM - Measurement,89,,,,
+en,ASG,Antriebssteuergerät,90,,,,
+en,ASGs,Anzeige-Steuergeräte,91,,,,
+en,ASIL,Automotive Safety Integration Level,92,,,,
+en,ASM,Assistent System Monitor,93,,,,
+en,ASPICE,Automotive Software Process Improvement and Capability Etermination,94,,,,
+en,ASPSP,Account Servicing Payment Service Providers,95,,,,
+en,ASR,Automatic Speech Recognition,96,,,,
+en,ASR,Adaptive Speed Recommendation,97,,,,
+en,ASSY,Assembly,98,,,,
+en,AST,Appointment Scheduling Tool,99,,,,
+en,ASW,Application Software Layer,100,,,,
+en,ASW,Ausstiegswarnung,101,,,,
+en,AT,Awareness and Training,102,,,,
+en,ATCS,Automatic Transmission Control System,103,,,,
+en,ATM,Authentic Time Manager,104,,,,
+en,ATNE,Aktiver Teilnehmer Ergonomie,105,,,,
+en,AU,Aggregator Unit,106,,,,
+en,AU,Audit,107,,,,
+en,AUTOSAR,AUTomotive Open System ARchitecture,108,,,,
+en,AVB,Audio Video Bridge,109,,,,
+en,AVM,Around View Monitor,110,,,,
+en,AVON,AenderungsVerfolgung Online,111,,,,
+en,AVP,Autonomous Valet Parking,112,,,,
+en,AVPS,Automotive Virtual Platform Specification,113,,,,
+en,AVRCP,AV Remote Control Target,114,,,,
+en,AVS,Alexa Voice SDK/Service,115,,,,
+en,AVV,Auftragsdatenverarbitungsvertrag,116,,,,
+en,AWD,All-wheel Drive,117,,,,
+en,AWS,Amazon Web Services,118,,,,
+en,AWU,Ausweichunterstützung,119,,,,
+en,AWV,Anhaltewegverkürzung,120,,,,
+en,AXI,Advanced eXtensible Interface,121,,,,
+en,AZK,Anzeigekoordinator,122,,,,
+en,AzS,Authorization Server,123,,,,
+en,AzS,Authorization Server,124,,,,
+en,B2B,Business to Business,125,,,,
+en,BAF,Boot  Assisted  Flash,126,,,,
+en,BAP,Bedien-Anzeige-Protokoll,127,,,,
+en,BAS,Brake Assist System,128,,,,
+en,bCall,Online Breakdown Call,129,,,,
+en,BCCM,Battery Charging Care Mode,130,,,,
+en,BCM,Body Control Module,131,,,,
+en,BCM LH,Body Control Module Left Hand,132,,,,
+en,BCM RH,Body Control Module Right Hand,133,,,,
+en,BCP,Business Case Portfolio,134,,,,
+en,BD,Blindness Detection,135,,,,
+en,BDC,Body Domain Controller,136,,,,
+en,BDS,BeiDou Navigation Satellite System,137,,,,
+en,BDSG,Bundesdatenschutzgesetz,138,,,,
+en,BERT,Bidirectional Encoder Representations from Transformers,139,,,,
+en,BEV,Battery Electric Vehicle,140,,,,
+en,BF,Beam Forming,141,,,,
+en,BF,B-Freigabe / Beschaffungsfreigabe / Procurement Release,142,,,,
+en,BIN/BIC,Bank Identification Number/Code,143,,,,
+en,BLE,Bluetooth Low Emmisions,144,,,,
+en,BMC,Body Module Controller,145,,,,
+en,BMS,Battery Management System,146,,,,
+en,BN/EN/ION,Base Node/Extension Node/IO Node,147,,,,
+en,BOM,Bill Of Material,148,,,,
+en,BP,Basic Platform,149,,,,
+en,BPD,Bipolar Disorder,150,,,,
+en,BPM,Beat Per Minute,151,,,,
+en,BPM,Beat Per Minute,152,,,,
+en,BRNN,Bi-directional Recurrent Neural Network,153,,,,
+en,BSD,Blind Spot Detection,154,,,,
+en,BSI,Back Side Illuminated,155,,,,
+en,BSM,Blind Spot Monitoring,156,,,,
+en,BSM,Basic Safety Message,157,,,,
+en,BSP,Board Support Package,158,,,,
+en,BSP,Business Service Platform,159,,,,
+en,BSS,Blind Source Separation,160,,,,
+en,BSW,Basic SoftWare,161,,,,
+en,BSW,Basic Software Layer,162,,,,
+en,BV,Bildverarbeitung,163,,,,
+en,BZD,Bauzustandsdokumentation,164,,,,
+en,C-V2X,Cellular-Vehicle to Everything,165,,,,
+en,CAA,Consent Activation Adapter,166,,,,
+en,CaaS,Communications-as-a-Service,167,,,,
+en,CABS,Car Access Based Services,168,,,,
+en,CADA,China Automative Driver Assistance,169,,,,
+en,CADA,China Advanced Driving Assistant,170,,,,
+en,CAE,Computer-Aided Engineering,171,,,,
+en,CAL,Camera Calibration,172,,,,
+en,CAN,Controller Area Network,173,,,,
+en,CAP,Cloud Analytics Platform,174,,,,
+en,CAP,Composed Assurance Package,175,,,,
+en,CAP,Consumer Analytics Platform,176,,,,
+en,CAP,Customer Application Platform,177,,,,
+en,CAPA,China Advanced Parking Assistant,178,,,,
+en,CARIAD,Car. I Am Digital,179,,,,
+en,CARIAD SE,CAR,180,,,,
+en,CARPORT,The database that stores the last known good configuration for each VIN,181,,,,
+en,CAT,Cariad App Toolkit,182,,,,
+en,CAV,Connected Automated Vehicle,183,,,,
+en,CBC,Cipher Block Chaining,184,,,,
+en,CBPII,Card Based Payment Instrument Issuers,185,,,,
+en,CBS,Charging Business Service,186,,,,
+en,CBS,Charging Business Service,187,,,,
+en,CC EAL,Common Criteria Evaluation Assurance Level,188,,,,
+en,CC/DP,Connected Car/Device Platform,189,,,,
+en,CCB,Change Control Board,190,,,,
+en,CCC,Create & Connect Competences,191,,,,
+en,CCD,Climate Control Display,192,,,,
+en,CCD,Charge Coupled Device,193,,,,
+en,CCF,Customer Care Frontend,194,,,,
+en,CCF,Customer Care Frontend,195,,,,
+en,CCG,Custom Cloud Gateway,196,,,,
+en,CCI,Camera Control Interface,197,,,,
+en,CCM,Central Control Module,198,,,,
+en,CCM,Central Control Module,199,,,,
+en,CCMS,Customer Contract Management System,200,,,,
+en,CCP,Current Car Position,201,,,,
+en,CCP,Connectivity Communication Parameter,202,,,,
+en,CCS,Customer Centric Services,203,,,,
+en,CCS,Cloud & Connected Services,204,,,,
+en,CCS,Cruise Control System,205,,,,
+en,CCS,Camera Command Set,206,,,,
+en,CDAA,Client Domain App Authentication,207,,,,
+en,CDAS,Cooperative Driver Assistance System,208,,,,
+en,CDB,Car Data Brokerage,209,,,,
+en,CDC,Car Data Collection,210,,,,
+en,CDC,Cockpit Domain Controller,211,,,,
+en,CDC CA,CDC Control Application,212,,,,
+en,CDD,Complex Device Driver,213,,,,
+en,CDD,Conversation-Driven Development,214,,,,
+en,CDIS,Car Data Information System,215,,,,
+en,CDM,Customer Data Management,216,,,,
+en,CDN,Content Delivery Network ,217,,,,
+en,CDP,Client Domain Proxy,218,,,,
+en,CDS,CAN Dev Studio,219,,,,
+en,CDS,Chassis Domain System,220,,,,
+en,CDX,Car Data Exchange,221,,,,
+en,CE,Commerce Engine,222,,,,
+en,cECU,Central Electronic Control Unit,223,,,,
+en,CEM,Customer Experience Management,224,,,,
+en,CEM,Customer Engagement Management,225,,,,
+en,CES,Commercial Enrollment Service,226,,,,
+en,CF,Car Finder,227,,,,
+en,CF,Collaborative Filtering,228,,,,
+en,CFA,Car Function Adapter,229,,,,
+en,CFES,Central Function Enabling System,230,,,,
+en,CHA,Communication Hardware Abstraction,231,,,,
+en,CI,Car Interface ,232,,,,
+en,CIA,Charging Infrastructure Analytics,233,,,,
+en,CIAT,Continuous Integration and Automated Test,234,,,,
+en,CID,Central Information Display,235,,,,
+en,CID,Central Infortainment Display,236,,,,
+en,CIDS,CYMOTIVE Intrusion Detection System,237,,,,
+en,CIT,Customer Initiated Transaction,238,,,,
+en,CKD,Completely Knocked-Down,239,,,,
+en,CLB,Child Left Behind,240,,,,
+en,CLCS,Central Locking Control System,241,,,,
+en,CLM,Car License Manager,242,,,,
+en,CM,Configuration Management,243,,,,
+en,CMA,Compact Modular Architecture,244,,,,
+en,CMAC,Cipher-based Message Authentication Code,245,,,,
+en,CMIS,Content Management Interoperability Services,246,,,,
+en,CMOS,Complementary Metal Oxide Semiconductor,247,,,,
+en,CMP,Customer Mobility Prediction,248,,,,
+en,CMP,Customer Mobility Platform,249,,,,
+en,CMS,Charge Mode Selection,250,,,,
+en,CNG,Compressed Natural Gas,251,,,,
+en,CNO,Computer Network Operations,252,,,,
+en,CNS,China Navigation System,253,,,,
+en,ConMod,BT-Verbindung Smartphone,254,,,,
+en,COP,Carry over part,255,,,,
+en,CP,Contingency Planning,256,,,,
+en,CPE,Composite Product Evaluation,257,,,,
+en,CPM,Customer Profie Management,258,,,,
+en,CPP,Cyber Physical Products,259,,,,
+en,CPPT,Connect Product Planning Team ,260,,,,
+en,CRG,Curved Regular Grid,261,,,,
+en,CSA,Certificate Authority,262,,,,
+en,CSA,certificate authority,263,,,,
+en,CSA,Core Services Authentication,264,,,,
+en,CSI,Camera Serial Interface,265,,,,
+en,CSI,Cyber Security Incident,266,,,,
+en,CSL,Cyber Security Law,267,,,,
+en,CSP,Cryptograhic Service Provider,268,,,,
+en,CSR,Certificate Signing Request,269,,,,
+en,CSR,Certificate Signing Request,270,,,,
+en,CSS,Crashschwereschätzer,271,,,,
+en,CSS,Central Security Service,272,,,,
+en,CT,Commerce Tools,273,,,,
+en,CT,Car Telephone,274,,,,
+en,CTC,Connectionist temporal classification,275,,,,
+en,CTS,Compatibility Test Suite,276,,,,
+en,CTT,Connect TechnologieTeam ,277,,,,
+en,CVC,Card Verification Code,278,,,,
+en,CVD,Customer Verified Data,279,,,,
+en,CWP,Customer Web Portal,280,,,,
+en,D2C,Direct to Customer,281,,,,
+en,DA,Diagnostic Address,282,,,,
+en,DAF,Datenaufzeichnungsfunktion,283,,,,
+en,DASDM,Driver Assistance Systems Display Manager,284,,,,
+en,DCF,Device  Configuration  Field,285,,,,
+en,DCM,Data Collector Master,286,,,,
+en,DCOM,Data Collector Order Management,287,,,,
+en,DCOM,Data Collector Order Manager,288,,,,
+en,DCS,Driver Camera System,289,,,,
+en,DCU,Domain Control Unit,290,,,,
+en,DD,Download Descriptor,291,,,,
+en,DDM,Data Driven Marketing,292,,,,
+en,DDS,Data Distribution Software,293,,,,
+en,DDS,Data Distribution Service,294,,,,
+en,DE,Design Phase,295,,,,
+en,DEFE,Driver Emotion Facial Expression,296,,,,
+en,DET,Data Freeze Milestone,297,,,,
+en,DF,Datenfestlegung ,298,,,,
+en,DF,Design-Freeze,299,,,,
+en,DFMS,Driver Fatigue Monitor System,300,,,,
+en,DFOV,Display Field of View,301,,,,
+en,DGPS,Differential Global Positioning System,302,,,,
+en,DI,Digital Input,303,,,,
+en,DIAS,Digital After Sales,304,,,,
+en,DISS,Direct Information System Service,305,,,,
+en,DKY,Digital Key,306,,,,
+en,DLC,Download Container,307,,,,
+en,DLCM,Digital Lifecycle Management,308,,,,
+en,DLNA,Digital Living Network Alliance,309,,,,
+en,DLQ,Dead Letter Queue,310,,,,
+en,DLT,Diagnostics Log and Trace,311,,,,
+en,DM,Driver Monitoring,312,,,,
+en,DMC,Driver Monitoring Camera,313,,,,
+en,DMC,Digital Media Controller,314,,,,
+en,DMC,Data Matrix Code,315,,,,
+en,DMD,Device Master Data,316,,,,
+en,DMD,Device Master Data,317,,,,
+en,DME,Digital Motor Electronics,318,,,,
+en,DMI,Distance Measuring Indicator,319,,,,
+en,DML,Digitales Matrixlicht,320,,,,
+en,DMP,Digital Media Player,321,,,,
+en,DMPLR,Driving Manoeuvre Prediction Long Range,322,,,,
+en,DMR,Digital Media Render,323,,,,
+en,DMS,Driver Monitoring System,324,,,,
+en,DMS,Driver Monitoring System,325,,,,
+en,DMS,Digital Media Server,326,,,,
+en,DMS,Dealer Maintenance Scheduling,327,,,,
+en,DMU,Digital Mock-Up,328,,,,
+en,DnA,Data and Analytics,329,,,,
+en,DNH,Driver Notification Handler,330,,,,
+en,DO,Digital Output,331,,,,
+en,DOA,Direction Of Arrival,332,,,,
+en,DoR,Definition of Ready,333,,,,
+en,DPAP,Device Platform Admin Portal,334,,,,
+en,DPI,Deep Packet Inspection,335,,,,
+en,DPP,Digital Production Platform,336,,,,
+en,DPR,Draft Plan Review,337,,,,
+en,DRE,Driving Resistance Estimation (Masse- und Fahrwiderstand),338,,,,
+en,DRM,Direct Rendering Manager,339,,,,
+en,DRS,Drehratensensor,340,,,,
+en,DSA,Diagnostic Service Application,341,,,,
+en,DSC,Dynamic Stability Control,342,,,,
+en,DSD,Datenschutzsachverhaltsdokumentation,343,,,,
+en,DSG,Device Service Gateway,344,,,,
+en,DSGVO,Datenschutzgrundverordnung,345,,,,
+en,DSI,Driving State Interpretation (Fahrzustandsinterpretation),346,,,,
+en,DSI,Display Serial Interface,347,,,,
+en,DSL,Domain-Specific Language,348,,,,
+en,DSL,Domain Specific Language,349,,,,
+en,DSR,Data Subject Rights,350,,,,
+en,DSRC,Dedicated Short-Range Communication,351,,,,
+en,DSSO,Digital Sales & Service Organization,352,,,,
+en,DTC,Digital Trouble Code,353,,,,
+en,DTCs,Diagnostic Trouble Codes,354,,,,
+en,DUMM,Download Upload Messaging Manager,355,,,,
+en,DUT,Devices Under Test,356,,,,
+en,DV,Datenverarbeitung,357,,,,
+en,DVP,Digital Video Port,358,,,,
+en,DVR,Digital Video Recorder,359,,,,
+en,DWAP,DWA Push ,360,,,,
+en,DWAP,Diebstahlwarnanlage push,361,,,,
+en,DWM,Driver Warning Manager,362,,,,
+en,E3,End to End Elektronik Architektur,363,,,,
+en,EA,Emergency Assist,364,,,,
+en,EARL,Entity and Relation Linking,365,,,,
+en,EARSH,Electric active roll stabilization rear,366,,,,
+en,EARSV,Electric active roll stabilization front,367,,,,
+en,EAS,Exhaust gas Aftertreatment Systems,368,,,,
+en,EBA,Electronic Brake Assist,369,,,,
+en,EBD,Electronic Brakeforce Distribution,370,,,,
+en,EBRC,European Business Reliance Centre,371,,,,
+en,eCall,emergency call,372,,,,
+en,ECM,Engine Control Module,373,,,,
+en,ECNR,Echo Cancellation & Noise Reduction,374,,,,
+en,ECR,Elastic Container Registry,375,,,,
+en,ECS,Execute Container Serverless,376,,,,
+en,ECS,Enterprise Core Service,377,,,,
+en,ECS,Electronic Control Suspension System,378,,,,
+en,ECU,Electronic Control Unit,379,,,,
+en,EDC,Enterprise Data Catalog,380,,,,
+en,EEA,European Economic Area,381,,,,
+en,EEA,Electrical/Electronic Architecture,382,,,,
+en,EGS,Electronic transmission control,383,,,,
+en,EHC,Electronic ride height control,384,,,,
+en,EHP/AHP,Electronic Horizon Provider/ADAS Horizon Provider,385,,,,
+en,EHR/AHR,Electronic Horizon Reconstructor/ADAS Horizon Reconstructor,386,,,,
+en,EIC,Event and image collector,387,,,,
+en,EKR,Electronic components reduced – DMU product data type,388,,,,
+en,ELV,Lenksaulensperre,389,,,,
+en,EMC,Electro Magnetic Compatibility,390,,,,
+en,EMD,E-Mirror Display,391,,,,
+en,EMEA,Europe,392,,,,
+en,EMHLR,ehemals NVEM,393,,,,
+en,EMI,Electronic Money Institute,394,,,,
+en,EMI,ElectroMagnetic Interference,395,,,,
+en,EML,Ego Motion and Location,396,,,,
+en,EMS,Engine Management System,397,,,,
+en,EMS,Engine Management System,398,,,,
+en,ENR,Enrollment,399,,,,
+en,EOP,End of production,400,,,,
+en,EOP,End of Production,401,,,,
+en,EOS,End of Service,402,,,,
+en,EPH,Einparkhilfe,403,,,,
+en,EPS,Electric Power Steering,404,,,,
+en,EPS,Electronic Power Steering,405,,,,
+en,EPS,Electromechanical Power Steering,406,,,,
+en,ESC,Electronic Stability Control,407,,,,
+en,ESI,External Sensor Interface,408,,,,
+en,ESL,Electronic System Level,409,,,,
+en,ESM,Egomotion and Surface Mode,410,,,,
+en,ETKA,Ersatzteil & Katalog,411,,,,
+en,ETRNRP,ETronRoutePlanningService ,412,,,,
+en,EVACS,Enable Vehicle And Customer Services,413,,,,
+en,EVACS,Enable Vehicle & Customer Services,414,,,,
+en,EVS,Exterior View System,415,,,,
+en,FACT,Full-Attention Cross-modal Transformer,416,,,,
+en,FAL,Frontend Abstraction Layer,417,,,,
+en,FAM,Fahrzeug Aggregate Management,418,,,,
+en,FAP,Fehlerabstellprozess,419,,,,
+en,FAS,Fahrer Assistance System,420,,,,
+en,FAW,First Automobile Works,421,,,,
+en,FAZIT,Führungskraft Auf Zeit Im Team,422,,,,
+en,FBD,Remote control receiver,423,,,,
+en,FBK,Fahrerbeobachtungskamera,424,,,,
+en,FBU,Fully Built-Up,425,,,,
+en,FCECS,Fuel Cell Engine Control System,426,,,,
+en,FCM,Firebase Cloud Messaging,427,,,,
+en,FCWS,Forward Collision Warning System,428,,,,
+en,FDC,FleetDataCollector,429,,,,
+en,FEP,Functional Engineering Platform ,430,,,,
+en,FFB,Funkfernbedienung,431,,,,
+en,FFI,Freedom From Interference,432,,,,
+en,FID,Frechet Inception Distance,433,,,,
+en,FIDL,Franca IDL,434,,,,
+en,FIN,Fahrzeug Identifikations Nummer,435,,,,
+en,FIS,Fertigungs Infomations-und Steuerungssystem,436,,,,
+en,FLA,Fernlichtassistent,437,,,,
+en,FLEL,Frontal Light Electronics Left,438,,,,
+en,FLER,Frontal Light Electronics Right,439,,,,
+en,FM,Function Master,440,,,,
+en,FMI,Functional Mock-up Interface,441,,,,
+en,FNS,Frontend Notification Service,442,,,,
+en,FoD,Functions on Demand,443,,,,
+en,FoD,Feature on Demand,444,,,,
+en,FoD,Function on Demand,445,,,,
+en,FOSS,Free and Open Source Software,446,,,,
+en,FOSS,Free and Open Source Software,447,,,,
+en,FOTA,Firmware Over The Air,448,,,,
+en,FPA,Fahrprofilauswahl,449,,,,
+en,FPD,Flat Panel Display,450,,,,
+en,FRC,Factory Reset Controller,451,,,,
+en,FRS,Front radar sensor,452,,,,
+en,FRSF,Front radar sensor long range,453,,,,
+en,FS,Financial Services,454,,,,
+en,FSD,Full Self Driving ,455,,,,
+en,FuSi,functional safety,456,,,,
+en,FV,Fix Version,457,,,,
+en,FZD,Roof function centre,458,,,,
+en,GA,General Availability,459,,,,
+en,GAS,Google Automotive Services,460,,,,
+en,GAS,Google Automotive Services,461,,,,
+en,GATA,Guard Against Theft and Alarm System,462,,,,
+en,GBDT,Gradient Boosting Decision Tree,463,,,,
+en,GCM,Google Cloud Message,464,,,,
+en,GCSP,Global Customer Support Process ,465,,,,
+en,GDC,Group Data Collector,466,,,,
+en,GDC,Generic Document Consent,467,,,,
+en,GDP,GENIVI Development Platform,468,,,,
+en,GDPR,General Data Protection Regulation,469,,,,
+en,GEF,Graphical Editing Framework,470,,,,
+en,GEM,Green Engineering Menu,471,,,,
+en,GEO,Geofence (virtual fence),472,,,,
+en,GHAS,Regulated rear axle differential lock,473,,,,
+en,GIBS,GewichtsInformations - und BerechnungsSystem,474,,,,
+en,GITC,Group IT Cloud,475,,,,
+en,GITC,Group IT Cloud,476,,,,
+en,GloVe,Global Vectors for Word Representation,477,,,,
+en,GmbH,Gesellschaft mit beschrankter Haftung,478,,,,
+en,GMS,Google Mobile Services,479,,,,
+en,GMSL,Gigabit Multimedia Serial Link,480,,,,
+en,GMSL,Gigabit Multimedia Serial Link,481,,,,
+en,GNSS,Global Navigation Satellite System,482,,,,
+en,GP,Gateway Proxy,483,,,,
+en,GP,Großes Produkt-Upgrade,484,,,,
+en,GPL,General Purpose Language,485,,,,
+en,GPS,Global Payment Solution,486,,,,
+en,GPS,Global Positioning System,487,,,,
+en,GRA,Geschwindigkeitsregelanlage,488,,,,
+en,GrM,Group Module,489,,,,
+en,GRP,Group Retail Portal,490,,,,
+en,GRU,Gated Recurrent Unit,491,,,,
+en,GSB,Group Service Bus,492,,,,
+en,GSBR,Group Service Bus Registry ,493,,,,
+en,GSDK,Group SDK,494,,,,
+en,GSI,Generic Simulation Interface,495,,,,
+en,GSL,Group Secure Login,496,,,,
+en,GSR,General Safety Regulation,497,,,,
+en,GSSD,Group Service Systems & Diagnostics,498,,,,
+en,GSSD,Group Service Systems Diagnosis,499,,,,
+en,GTSP,Generalised Travelling Salesman Problem,500,,,,
+en,GTV,Gewährleistungs-Teile-Verwaltung,501,,,,
+en,GVF,Group Vehicle Folder/File,502,,,,
+en,GVM,Geschäftsvorfall mappe,503,,,,
+en,GW,Gateway,504,,,,
+en,GWS,Gear selector switch,505,,,,
+en,HAD,Highly Automated Driving,506,,,,
+en,HAF,Hochautomatisiertes Fahren,507,,,,
+en,HAL,Hardware Abstraction Layer,508,,,,
+en,HBA,Hydraulic Brake Assist,509,,,,
+en,HC,Health Check,510,,,,
+en,HCP,High Performance Computing Platform,511,,,,
+en,HCU,Hybrid Control Unit,512,,,,
+en,HD,High Definition,513,,,,
+en,HD Maps,High Definition Maps,514,,,,
+en,HDRS,Hamilton Depression Rating Scale,515,,,,
+en,HFOV,Horizontal Field of View,516,,,,
+en,HFP,Hands-free Gateway,517,,,,
+en,HHC,Hill Hold Control,518,,,,
+en,HIDL,Hardware Interface Define Language,519,,,,
+en,HIL,Hardware in the Loop,520,,,,
+en,HKFM,Tailgate function module,521,,,,
+en,HL,High Level,522,,,,
+en,HLSWA,High Level Software Architecture,523,,,,
+en,HMD,Head-Mounted Display,524,,,,
+en,HMI,Human Machine Interface,525,,,,
+en,HOG,Histogram of Oriented Gradients,526,,,,
+en,HOTP,HMAC-Based One-Time Password Algorithm,527,,,,
+en,HP,High Performance,528,,,,
+en,HPC,Hyper Performance Computing,529,,,,
+en,HRSNL,Rear radar sensor short range left,530,,,,
+en,HRSNR,Rear radar sensor short range right,531,,,,
+en,HSIF,High Speed Interface,532,,,,
+en,HSM,Hardware Security Modules,533,,,,
+en,HSM,Hardware Security Module,534,,,,
+en,HSN,Herstellerschlüsselnummer,535,,,,
+en,HST2,Handbuch Service Technik,536,,,,
+en,HU-H,Head Unit High,537,,,,
+en,HUD,Head Up Display,538,,,,
+en,HUM,Head Unit Module,539,,,,
+en,HVAC,Heating-Ventilation-Air Conditioning,540,,,,
+en,HVAC,Heating,541,,,,
+en,HWP,HighWay Pilot,542,,,,
+en,HZD,Hazard Detection,543,,,,
+en,i-VISTA,Intelligent Vehicle Integrated Systems Test Area,544,,,,
+en,IA,Identification and Authentication,545,,,,
+en,IAA,Identification Authentication Authorisaction,546,,,,
+en,IAM,Identity and Access Management,547,,,,
+en,IATF,International Automotive Task Force,548,,,,
+en,IBAN,International Bank Account Number,549,,,,
+en,IBD,Inbound Dispatcher,550,,,,
+en,ICAS,In-Car Application Servers ,551,,,,
+en,ICB,Instrument Communication Bus interface,552,,,,
+en,ICB,INTER-Connect Board,553,,,,
+en,ICB,Intelligent Cockpit and Body,554,,,,
+en,ICC,Infotainment Cockpit Cluster,555,,,,
+en,ICC,Infotainment & Cockpit Computer,556,,,,
+en,ICD,Instrument Cluster Display,557,,,,
+en,ICE,Internal Combustion Engine,558,,,,
+en,ICE,In-Car Login Enrollment,559,,,,
+en,ICM,Instrument Cluster Module,560,,,,
+en,ICP,Infotainment & Connect Platform,561,,,,
+en,ICP,Infortaiment Computing Platform,562,,,,
+en,ICS,In Cabin Sensing,563,,,,
+en,ICT,Information and Communication Technology,564,,,,
+en,ICU,Input Capture Unit,565,,,,
+en,ICV,Intelligent Connected Vehicles,566,,,,
+en,ID-Kit,IDP for the Service Platform Interfaces and systems,567,,,,
+en,ID.S,ID Software,568,,,,
+en,IDC,Intelligent data collector,569,,,,
+en,IDCM,Information Domain Control Module,570,,,,
+en,IDD,Intelligent Damage Detection,571,,,,
+en,IDL,Interface Define Language,572,,,,
+en,IDP,Identity Provider,573,,,,
+en,IDPS,Intrusion Detection and Prevention System,574,,,,
+en,IDS,Intrusion Detection System,575,,,,
+en,IE,Information Extraction,576,,,,
+en,IEB,Information Exchange Bus,577,,,,
+en,IEM,Interior E-Mirror,578,,,,
+en,IEMOCAP,Interactive Emotional Dyadic Motion Capture,579,,,,
+en,IG,Image Generator,580,,,,
+en,iHDCC,intelligent High Definition Car Configurator,581,,,,
+en,IHKA,Integrated automatic heating / air conditioning,582,,,,
+en,ILM,IVI LayerManagement,583,,,,
+en,IMEI,International Mobile Equipment Identity,584,,,,
+en,IMEI,international Mobile Equipment identity,585,,,,
+en,IMMO,Immobilizer,586,,,,
+en,IMSI,International Mobile Subscriber Identity,587,,,,
+en,IMSI,international Mobile Subscriber identity,588,,,,
+en,IMU,Inertial Measurement Units,589,,,,
+en,INC,Inter Node Communication,590,,,,
+en,INT,INT environment,591,,,,
+en,IOC,IO Companion,592,,,,
+en,IOHA,Input/Output Hardware Abstraction,593,,,,
+en,IOT,Internet of Things,594,,,,
+en,IoU,Intersection over Union,595,,,,
+en,IP,Individual Participation,596,,,,
+en,IPA,Intelligent Park Assist,597,,,,
+en,IPC,Inter Process Communication,598,,,,
+en,IPCF,Inter-Platform Communication Framework,599,,,,
+en,IPM,Iteration Planning Meeting,600,,,,
+en,IR,Incident Responses,601,,,,
+en,IREB,International Requirements Engineering Board,602,,,,
+en,IRV,Inter Runnable Variable,603,,,,
+en,ISA,Intelligent Speed Assist,604,,,,
+en,iSAQB,International Software Architecture Qualification Board,605,,,,
+en,ISP,Image Signal Processor,606,,,,
+en,iSSW,Infotainment-Setz-Software,607,,,,
+en,ITEA,International Test and Evaluation Association,608,,,,
+en,ITR,Infotainment Recorder,609,,,,
+en,ITR,Infotainment Recorder,610,,,,
+en,ITS,Intelligent Transport Systems,611,,,,
+en,IVC,inter-VM communication,612,,,,
+en,IVI,In Vehicle Infotainment,613,,,,
+en,IVOS,In-Vehicle Operating System,614,,,,
+en,IVS,In-Vehicle System,615,,,,
+en,JTA,Jenkins Test Automation,616,,,,
+en,JV,Joint Venture,617,,,,
+en,JWT,JSON Web Token,618,,,,
+en,K-UMS,Konzern User Management System,619,,,,
+en,KA,Kreuzungsassistent,620,,,,
+en,KAFAS,Camera-based driver assistance systems,621,,,,
+en,KBP,Konzern Business Plattform,622,,,,
+en,KBQA,Question Answering over Knowledge Base,623,,,,
+en,Kessy,Keyless Entry Start & Exit Security System,624,,,,
+en,KF,Konzept-Freeze,625,,,,
+en,KFF,Kundenfahrzeugfunktion,626,,,,
+en,KG,Knowledge Graph,627,,,,
+en,KGAS,Konzern Grundanforderungen Software,628,,,,
+en,KL15,Klemme15,629,,,,
+en,KL30,Klemme30,630,,,,
+en,KLS,Klemmensteuerung,631,,,,
+en,KMS,Kernel Mode Setting,632,,,,
+en,KOMBI,Instrument cluster,633,,,,
+en,KPM,Konzern Problem Management,634,,,,
+en,KS,Komponentenschutz,635,,,,
+en,KSSG,Kontaktsensorik-Steuergerät,636,,,,
+en,KSU,Klassifikations system für Unterlagen,637,,,,
+en,KVPS,Konzern Vertriebs Partner Stammdaten,638,,,,
+en,L&S,Lift & Shift,639,,,,
+en,LA,Lane Assist,640,,,,
+en,LACE,Lean Aglie Center for Excellence,641,,,,
+en,LAH,Lastenheft,642,,,,
+en,LAVIN,Lean Automotive Vehicle Integration Network,643,,,,
+en,LBS,Location Based Services,644,,,,
+en,LBS,Linear Blend Skinning,645,,,,
+en,LDA,Lane Detection Algorithms,646,,,,
+en,LDAP,Lightweight Directory Access Protocol,647,,,,
+en,LDW,Lane Departure Warning,648,,,,
+en,LEE,Legal Entity,649,,,,
+en,LEE,Legal Entity,650,,,,
+en,LEI,Login Enrollment Light,651,,,,
+en,LEL,Login Enrollment Light,652,,,,
+en,LF,Lane Fusion,653,,,,
+en,LF,Launch-Freigabe / Launch-Release,654,,,,
+en,LF,Low Frequency,655,,,,
+en,LGI,Lokale Gefahreninformation,656,,,,
+en,LGW,Lokale Gefahrenwarnung,657,,,,
+en,LH,(Geo Data) Mapping License Holder,658,,,,
+en,LHW,Local Hazard Warning,659,,,,
+en,LIM,Speed Limiter,660,,,,
+en,LIMEO,reverse of OEMIL,661,,,,
+en,LIN,Local Interconnect Network,662,,,,
+en,LKA,Lane Keeping Assist,663,,,,
+en,LL,Low Level ,664,,,,
+en,LLDs,Low-Level Descriptors,665,,,,
+en,LoC,Lines of Code,666,,,,
+en,Loc.HD,Localization HD,667,,,,
+en,Loc.SD,Localization SD,668,,,,
+en,LoM,Level of Maturity,669,,,,
+en,LPM,Lean Portfolio Management,670,,,,
+en,LPU,Laser Processing Unit,671,,,,
+en,LRR,Long Range Radar,672,,,,
+en,LS,Local Services,673,,,,
+en,LSG,Living Style Guide,674,,,,
+en,LSM,Linux Security Module,675,,,,
+en,LSM,Linux Security Model,676,,,,
+en,LUM,Local Update Manager,677,,,,
+en,LVDS,Low-Voltage Differential Signaling,678,,,,
+en,M-SDL, Measurable Scenario Description Language,679,,,,
+en,M/ADC,Mobile Data Center / ADAS\AD Domain Controller,680,,,,
+en,MA,Manövrierassistent,681,,,,
+en,MA,Maintenance,682,,,,
+en,MaaS,Mobility-as-a-service,683,,,,
+en,MaaS,Mobility as a Service,684,,,,
+en,MAC,Mandatory Access Control,685,,,,
+en,MAC,Message Authentication Code,686,,,,
+en,MADE,Mobility/Autonomous/Digitalization/Electrification,687,,,,
+en,MAL ,,688,,,,
+en,MAP,Message Data,689,,,,
+en,MBB,Modular Backend Baukasten,690,,,,
+en,MBD,MultiBody Dynamics,691,,,,
+en,MBD,Model-Based Design,692,,,,
+en,MCAL,Microcontroller Abstraction Layer,693,,,,
+en,MCC,Modular Cockpit Computer,694,,,,
+en,MCU,Motor Control Unit,695,,,,
+en,MCU,Micro Controller Unit,696,,,,
+en,MCVP,Microsoft Connected Vehicle Platform,697,,,,
+en,MDA,Mobile Device Application,698,,,,
+en,MDC,Master Data Catalog,699,,,,
+en,MDC,Mobile Data Center,700,,,,
+en,MDFF,Master Data Factory Feed,701,,,,
+en,MDG,Master Data Gateway,702,,,,
+en,MDK,Mobile Digital Key,703,,,,
+en,MDM,Mobile Device Management,704,,,,
+en,MDP/mDP,Mobile Device Platform,705,,,,
+en,ME,Market Entry,706,,,,
+en,ME1/2/3,Market Entrance 1/2/3,707,,,,
+en,MEB,Modular Electric Baukasten ,708,,,,
+en,MEC,Multi-access Edge Computing,709,,,,
+en,MEC,Multi-access Edge Computing,710,,,,
+en,MEC,Manual Emergency Call,711,,,,
+en,MELT,Metrics,712,,,,
+en,MENA,Middle East and North Afric,713,,,,
+en,MFA,Multi-Functions display,714,,,,
+en,MFCC,Mel-Frequency Cepstrum Coefficient,715,,,,
+en,MFK,Multifunktionskamera,716,,,,
+en,MFL,Multi-Funktions Lenkrad,717,,,,
+en,MFP,Multi Function Panel,718,,,,
+en,MHA,Memory Hardware Abstraction,719,,,,
+en,MHEV,Mild Hybrid Electric Vehicle,720,,,,
+en,MHEV,Mild Hybrid Electric Vehicle,721,,,,
+en,MI,Major Incidents,722,,,,
+en,MIB,Modularer Infotainment Baukasten,723,,,,
+en,MIC,MICrophone,724,,,,
+en,MIF,MapInfo Interchange File,725,,,,
+en,MII,Media Independent Interface,726,,,,
+en,MIT,Merchant Initiated Transaction,727,,,,
+en,MKE,Müdigkeitserkennung,728,,,,
+en,MLaaS,Monitoring Logging as a Service,729,,,,
+en,MLB/MLP,Modularer L Ngsbaukasten/Modular Longitudinal Platform,730,,,,
+en,MLP,Multi-Layer Perceptron,731,,,,
+en,MM,Media Manager,732,,,,
+en,MMB,Modulare Mittel Baukasten,733,,,,
+en,MMI,Man Machine Interface,734,,,,
+en,MMI,Multi-Media Interface,735,,,,
+en,MMU,Memory Management Unit ,736,,,,
+en,MNB,Modular Commercial Vehicles Toolkit,737,,,,
+en,MNO,Managed Network Operations/Mobile Network Online/Mobile Network Operator,738,,,,
+en,MNP,Message Notification Platform,739,,,,
+en,MOD,Mobile Online Dienste,740,,,,
+en,Mole,a service name,741,,,,
+en,MOM,Manufacturing Operation Management,742,,,,
+en,MOSC,Mobile Online Service China,743,,,,
+en,MOST,Media Oriented Systems Transport,744,,,,
+en,MPB,Modular Production System,745,,,,
+en,MPJPE,Mean Per Joint Position Error,746,,,,
+en,MPP,Massively Parallel Processing,747,,,,
+en,MPP,Most Prefere Path,748,,,,
+en,MPS,Meta Programming System ,749,,,,
+en,MPU,Memory  Protection  Unit,750,,,,
+en,MQB,Modularer Quer Baukasten,751,,,,
+en,MQTT,Message Queuing Telemetry Transport,752,,,,
+en,MRC,Maximum Ratio Combining,753,,,,
+en,MRIP,Message Routing Information Provider ,754,,,,
+en,MRR,Medium Range Radar,755,,,,
+en,MRR,Medium Range Radar,756,,,,
+en,MSB,Modular Standard Drivetrain Toolkit,757,,,,
+en,MSC,Message Sequence Chart,758,,,,
+en,MSD,Minimum Set of Data,759,,,,
+en,MSG,Motorsteuergerät,760,,,,
+en,MSG,Mobile Service Gateway,761,,,,
+en,MSG,Mobile Service Gateway,762,,,,
+en,MSR,Monocular Scene Reconstruction,763,,,,
+en,MT,Multitenancy,764,,,,
+en,MVC,Multi-View Camera System,765,,,,
+en,MVP,Minimal Viable Product,766,,,,
+en,MXB,Matrixbeam,767,,,,
+en,MY,Model Year,768,,,,
+en,NAD,Network Attached Device,769,,,,
+en,NAR,North America Region,770,,,,
+en,NAR,Northern American market region,771,,,,
+en,NAR,North America,772,,,,
+en,NED,Named Entity Disambiguation,773,,,,
+en,NER,Named Entity Recognition,774,,,,
+en,NFC,Near Field Communication,775,,,,
+en,NFR,Non Functional Requirement,776,,,,
+en,NGP,Navigation Guided Pilot,777,,,,
+en,NHTSA,National Highway Traffic Safety Administration,778,,,,
+en,NLOS,Non Line-of-sight Sensing,779,,,,
+en,NM,Notification Manager,780,,,,
+en,NOA,Navigate on Autopilot,781,,,,
+en,NOP,Navigation on Pilot,782,,,,
+en,NQS,Normalized Query Structure,783,,,,
+en,NR,New Relic,784,,,,
+en,NRC,Negative Response Code,785,,,,
+en,NS,Noise Suppression,786,,,,
+en,NSA,National Security Agency,787,,,,
+en,NSC,National Service Company,788,,,,
+en,NSF,New Small Family,789,,,,
+en,NVA,Night View Assist,790,,,,
+en,NVH,Noise,791,,,,
+en,NVM,Non-Volatile Memory,792,,,,
+en,OAB,Open Address Book,793,,,,
+en,OADF,Open AutoDrive Forum,794,,,,
+en,OBD,Outbound Dispatcher,795,,,,
+en,OBD,On Board Diagnostics,796,,,,
+en,OBU,On Board Unit,797,,,,
+en,OCF,Open Connectivity Foundation,798,,,,
+en,OCI,Open Container Initiative,799,,,,
+en,OCL,Object Constraint Language,800,,,,
+en,OCM,Operation Configuration Manager,801,,,,
+en,OCU,Online Connectivity Unit,802,,,,
+en,OCU3H / OCU3L,Online Connectivity Unit (third generation) High / Low,803,,,,
+en,OCU4,Online Connectivity Unit 4th generation,804,,,,
+en,OD,Object Detection,805,,,,
+en,ODA,Onboard Devices Abstraction,806,,,,
+en,ODD,Operational Design Domains,807,,,,
+en,ODD,Operational Design Domain ,808,,,,
+en,ODIS,Offboard Diagnostic Information System,809,,,,
+en,ODP,One Digital Platform,810,,,,
+en,ODP 1.0,Correct name for MBB L&S,811,,,,
+en,ODX ,Open Diagnostic eXchange,812,,,,
+en,OEM,Original Equipment Manufacturer,813,,,,
+en,OEM.IL,OEM Integration Layer,814,,,,
+en,OIDC,OpenId Connect,815,,,,
+en,oKVS,Online Key-Value-Store,816,,,,
+en,OKVS,Online Key Vehicle Store,817,,,,
+en,oKVS,online KeyValue Store,818,,,,
+en,OMC,Occupant Monitoring Camera,819,,,,
+en,OMG,Object Management Group,820,,,,
+en,OMS,Occupant Monitoring System,821,,,,
+en,openPASS,open Platform for Assessment of Safety Systems,822,,,,
+en,OPR,Online Pannen Ruf,823,,,,
+en,OPR / ROA,AssistanceCallService – Online Pannenruf,824,,,,
+en,OPS,Optical Parking System,825,,,,
+en,OR,Online Registration,826,,,,
+en,ORU,Online Remote Update,827,,,,
+en,ORU,Online Remote Update,828,,,,
+en,OSG,Open Scene Graph ,829,,,,
+en,OSH,Occupant State HMI,830,,,,
+en,OSI,Open Simulation Interface,831,,,,
+en,OSO,Open Source Office,832,,,,
+en,OSP,Open Server Platform,833,,,,
+en,OSS,Open Source Software,834,,,,
+en,OSS,Occupant State Server,835,,,,
+en,OSS,Online Service Supplier,836,,,,
+en,OTA,Over The Air,837,,,,
+en,OTD,Order To Delivery,838,,,,
+en,OTP,One Time Password,839,,,,
+en,P&P,Profile & Preference,840,,,,
+en,PA,Produktaufwertung,841,,,,
+en,PaCo,Parking Coordinator,842,,,,
+en,PaKo,Parkkoordinator,843,,,,
+en,PAM,Product Activation Manager,844,,,,
+en,PAN,Primary Account Number,845,,,,
+en,PAR,Product Activation Report,846,,,,
+en,PAS,Parking Assist System,847,,,,
+en,PAT,Predictive Analytics Tool,848,,,,
+en,PAT,Personalized Access Token,849,,,,
+en,PBAP,Phonebook Data,850,,,,
+en,PC5,Band 47 (5.9GHz) for Sidelink Communications,851,,,,
+en,PCB,PreCrash Basis,852,,,,
+en,PCC,PreCrash Connect,853,,,,
+en,PCF,PreCrash Front,854,,,,
+en,PCH,PreCrash Heck (back),855,,,,
+en,PCI DSS,Payment Card Industry Data Security Standard,856,,,,
+en,PCIe,Peripheral Component Interconnect Express,857,,,,
+en,PCM,Product and Command Manager,858,,,,
+en,PCO,Project Controlling Office,859,,,,
+en,PCS,PreCrash Seite (side),860,,,,
+en,PCU,Power Control Unit,861,,,,
+en,PDAM,Product Data & Asset Management ,862,,,,
+en,PDC,Park Distance Control,863,,,,
+en,PDC,Power Data Center,864,,,,
+en,PDC,Park Distance Control,865,,,,
+en,PDE,Pre Delivery Enrollment,866,,,,
+en,PDG,Product Definition Group,867,,,,
+en,PDGen,Plugin Description Generator,868,,,,
+en,PDM,Power Distribution Module,869,,,,
+en,PDX,Packaged Data eXchange,870,,,,
+en,PEA,Prädiktiver Effizienzassistent,871,,,,
+en,PED,Pedestrian Detection,872,,,,
+en,PEP,Politically Exposed Person,873,,,,
+en,PEPS,Passive Entry & Passive Start,874,,,,
+en,PF,Project Feasibility,875,,,,
+en,PHA,Parkhausassistent,876,,,,
+en,PHEV,Plug-in Hybrid Electric Vehicle,877,,,,
+en,PHEV,Plug-in Hybrid Electric Vehicle,878,,,,
+en,PHM,Platform Health Management ,879,,,,
+en,PHP,Parkhauspilot,880,,,,
+en,PI,Program Increment,881,,,,
+en,PII,Personally Identifiable Information,882,,,,
+en,PIM,Project Information Management,883,,,,
+en,PIM,Product Information Management,884,,,,
+en,PIM,Personal Information Management,885,,,,
+en,PIPE,PI Planning Event,886,,,,
+en,PISP,Payment Initiation Service Providers,887,,,,
+en,PKCS,Public Key Cryptography Standards,888,,,,
+en,PKE,Passive Keyless Entry,889,,,,
+en,PKT,Projektkoordinator Technik,890,,,,
+en,PL,Planning,891,,,,
+en,PL,Passenger Longitudinal Engine,892,,,,
+en,PLA,Power Level Adapter,893,,,,
+en,PLARA,PLA für ARA,894,,,,
+en,PLM,Proactive Lead Management ,895,,,,
+en,PLP,Prädiktive Längsplanung,896,,,,
+en,PLT,Precise Local Time,897,,,,
+en,PM,Predictive Maintanance,898,,,,
+en,PMA,Parking Manoeuvring Assistant,899,,,,
+en,PMD,Photonic Mixing Device,900,,,,
+en,PMIC,Power Management Integrated Circuit,901,,,,
+en,PMSP,Product Management Service Platform,902,,,,
+en,PMT,Processes Methods & Tools,903,,,,
+en,PNC,PlugAndChargeService ,904,,,,
+en,PnC,Plug & Charge Online,905,,,,
+en,PNS,Push Notification Service,906,,,,
+en,POA,Proposal of Award,907,,,,
+en,POC,Proof Of Concept,908,,,,
+en,PoC,Power over Coax,909,,,,
+en,PONR,Point Of No Return,910,,,,
+en,POS,Part Of Speech,911,,,,
+en,PPC,Primary Permission Check,912,,,,
+en,PPE,Premium Platform Electric,913,,,,
+en,PPF,Parkplattform,914,,,,
+en,PPort,Provided Port,915,,,,
+en,PPS,Precise Positioning Service,916,,,,
+en,PPSO,Package Price System Online,917,,,,
+en,PQ,Passenger Transverse Engine,918,,,,
+en,PR,Product Request,919,,,,
+en,PrM,Predictive Maintenance,920,,,,
+en,PRPort,Provided and Received Port,921,,,,
+en,PS,Project Start,922,,,,
+en,PS vehicle,Pre-series vehicle,923,,,,
+en,PSAP,Public Safety Answering Point ,924,,,,
+en,PSAP,Public Safety Answering Point,925,,,,
+en,PSD,Payment Services Directive,926,,,,
+en,PSD,Prädiktive Streckendaten,927,,,,
+en,PSD,Prädiktive Strecken Daten,928,,,,
+en,PSF,Physical Storage Format,929,,,,
+en,PSO,Personalization online,930,,,,
+en,PSP,Payment Service Provider,931,,,,
+en,PSP,Preferred Service Provider,932,,,,
+en,PSU,Payment Service User,933,,,,
+en,PTT,Push To Talk,934,,,,
+en,PTT,Push to talk,935,,,,
+en,PU,Primary User,936,,,,
+en,PU/PUC/PUR,Primary User / PrimaryUser Client / Primary User Revocation,937,,,,
+en,PUR,Primary User Reset,938,,,,
+en,PVS,Produktions-Versuchs-Serie / Production Trial Series,939,,,,
+en,PWM,Pulse Width Modulation,940,,,,
+en,QG,Query Generation,941,,,,
+en,QoS,Quality of Service,942,,,,
+en,QSB,Quick Start Board,943,,,,
+en,QTSP,Qualified Trusted Service Providers,944,,,,
+en,QVGA,Quarter Video Graphics Array,945,,,,
+en,R-SAFE,Road Side Assistance FrontEnd,946,,,,
+en,R&P,Register and Pairing,947,,,,
+en,R&P,register and pairing,948,,,,
+en,R&P,Register & Pairing,949,,,,
+en,R&P,Register and Pairing,950,,,,
+en,RA,Reversing Assist,951,,,,
+en,RA,Risk Assessment,952,,,,
+en,RAC,Roadside Assistance Call,953,,,,
+en,RAH,RemoteStandheizung,954,,,,
+en,RAM,Receiver Audio Module,955,,,,
+en,RBC,Remote Battery Charge,956,,,,
+en,RBC,Remote Battery Charging,957,,,,
+en,RBF,Rangierbremsfunktion,958,,,,
+en,RCaaS,Range Calculation as a Service,959,,,,
+en,RCTA,Rear Cross Traffic Alert,960,,,,
+en,RDB,Real Time Data Bus,961,,,,
+en,RDE,Real Driving Emission,962,,,,
+en,RDF,Resource Description Framework,963,,,,
+en,RDK,Reifendruckkontrolle,964,,,,
+en,RDP,Retail Digital Portal,965,,,,
+en,RDS,Radio Data System,966,,,,
+en,RDS,Relational Data Script,967,,,,
+en,RDT,Remote Departure Time ,968,,,,
+en,RDW,Rest der Welt,969,,,,
+en,RE,Relation Extraction,970,,,,
+en,RE,Runnable Entity,971,,,,
+en,REK,Remote Keyless Entry,972,,,,
+en,REM,Road Experience Management,973,,,,
+en,REM,Roadside Experience Manager,974,,,,
+en,REPL,Read–Eval–Print Loop,975,,,,
+en,RESERVE,Repair and Service Events,976,,,,
+en,RF,Radio Frequency,977,,,,
+en,RFID,Radio Frequency Identity,978,,,,
+en,RFK,Rear view camera,979,,,,
+en,RFQ,Request for Quotation,980,,,,
+en,RG,Roadgraph,981,,,,
+en,RGMII,Reduced Gigabit Media Independent Interface,982,,,,
+en,RHC,Remote Hotspot Configuration,983,,,,
+en,RHF,Remote Honk & Flash,984,,,,
+en,RHF,Remote Honk & Flash,985,,,,
+en,RHP,Rush Hour Pilot,986,,,,
+en,RLS,Regenlichtsensor,987,,,,
+en,RLSBS,Rain-light-solar-condensation sensor,988,,,,
+en,RLU,Remote Lock & Unlock,989,,,,
+en,RLU,Remote Lock Unlock,990,,,,
+en,ROI,Regions Of Interest,991,,,,
+en,ROS,Robot Operating System,992,,,,
+en,ROW,Rest Of World,993,,,,
+en,RPA,Remote Park Assist,994,,,,
+en,RPC,Remote Pre-trip Climatization,995,,,,
+en,RPC,Remote Pretrip Climatization,996,,,,
+en,RPE,Road Profile Estimation,997,,,,
+en,RPort,Received Port,998,,,,
+en,RPT,Remote Profiles and Timers,999,,,,
+en,RPT,Remote Profile and Timer Programming,1000,,,,
+en,RPWS,Radar Proximity Warning System,1001,,,,
+en,RSA,Remote Speed Alert ,1002,,,,
+en,RSA,Remote Speed Alert,1003,,,,
+en,RSB,Radio Sound Box,1004,,,,
+en,RSC,Radio Sound Controller,1005,,,,
+en,RSE,Rear Seat Entertainment,1006,,,,
+en,RSI,RESTful Service Interface,1007,,,,
+en,RSS,Responsibility Sensitive Safety,1008,,,,
+en,RSSI,Received Signal Strength Indication,1009,,,,
+en,RSTP,Rapid Spanning Tree Protocol,1010,,,,
+en,RSU,Road Side Unit,1011,,,,
+en,RTE,RunTime Environment,1012,,,,
+en,RTE,Release Train Engineer,1013,,,,
+en,RTE,Release Train Engineer,1014,,,,
+en,RTG,Real-Time-Gathering,1015,,,,
+en,RTI,Real-Time Innovations,1016,,,,
+en,RTK,Real Time Kinematics,1017,,,,
+en,RTK,Real Time Kinematic,1018,,,,
+en,RTM,Real-Time Monitoring,1019,,,,
+en,RTOS,Real Time Operating System,1020,,,,
+en,RTPS,Real Time Publish Subscribe,1021,,,,
+en,RTS,Remote Trip Statistics,1022,,,,
+en,RVAS,Reverse Vehicle Alarm System,1023,,,,
+en,RVC,Rear View Camera,1024,,,,
+en,RVI,Remote Vehicle Interaction,1025,,,,
+en,RViz,ROS Visualization Tool ,1026,,,,
+en,RVS,Remote Vehicle Status ,1027,,,,
+en,RWM,Reichweiten Management,1028,,,,
+en,S&Q,Service and Quality,1029,,,,
+en,S3,Simple Storage Service,1030,,,,
+en,SA,System and Services Acquisition,1031,,,,
+en,SABRE,Smart Application Blueprint for Rapid Engineering,1032,,,,
+en,SAD,Software Architecture Document,1033,,,,
+en,SAE,Society of Automotive Engineers,1034,,,,
+en,SAFe,Scaled Agile Framework,1035,,,,
+en,SAM,Sensor-Aktor-Module,1036,,,,
+en,SAMS,Seat Adjustment Position Memory System,1037,,,,
+en,SAR,Sensor Actor Rear,1038,,,,
+en,SAS,Optional equipment system,1039,,,,
+en,SAS,System Authorization Service,1040,,,,
+en,SAT,System Access Token,1041,,,,
+en,SBA,Subscription,1042,,,,
+en,SC,System and Communications Protection,1043,,,,
+en,SCC,Smart Control Carrier,1044,,,,
+en,SCD,System Constraint Description,1045,,,,
+en,SCD,System Configuration Description,1046,,,,
+en,SCM,Service Configuration Matrix,1047,,,,
+en,SCON,Smart Remote Control,1048,,,,
+en,SCP,Simulation Control Protocol,1049,,,,
+en,SCP,Scalable Compute Platform,1050,,,,
+en,SCP,Scalable Compute Platform,1051,,,,
+en,SCR,Smart Charging Rates,1052,,,,
+en,SCS,Smart Charging Statistics,1053,,,,
+en,SCS,Smart Charging Statistics,1054,,,,
+en,SCT,Smart Charging Tariffs,1055,,,,
+en,SDC,Smart Display Carrier,1056,,,,
+en,SDE,Software Development Environment,1057,,,,
+en,SDF,Sensordatenfusion,1058,,,,
+en,SDIS,Smart Display,1059,,,,
+en,SDK,Software Development Kit,1060,,,,
+en,SDL,Smart Device Link,1061,,,,
+en,SDLC,Software Development Life Cycle,1062,,,,
+en,SDS,Sprachdialogsystem,1063,,,,
+en,SDV,Software Defined Vehicle,1064,,,,
+en,SEA,Search Engine Advertising,1065,,,,
+en,sECU,sensor Electronic Control Unit,1066,,,,
+en,SEM,Search Engine Marketing,1067,,,,
+en,SEO,Search Engine Optimization,1068,,,,
+en,SEPA,Single Euro Payments Area,1069,,,,
+en,SER,Speech Emotion Recognition,1070,,,,
+en,Service42,Server hosting the SVM application,1071,,,,
+en,SES,Simple Email Service,1072,,,,
+en,SF,Success Factors,1073,,,,
+en,SG,Steuergerät,1074,,,,
+en,SGP,Smart Gateway Platform,1075,,,,
+en,SHPS,Straßenhöhenprofilschätzung,1076,,,,
+en,SI,System and Information Integrity,1077,,,,
+en,SIFT,Scale-invariant feature transform,1078,,,,
+en,SIG,Special Interest Group,1079,,,,
+en,SIP,Signal Interface Provider,1080,,,,
+en,SIR,Service Implementation Request,1081,,,,
+en,SITM,sSOA-ID-Token Manager,1082,,,,
+en,SKs,Soft Keys,1083,,,,
+en,SL,Sanctions List,1084,,,,
+en,SLAM,Simultaneous Localization And Mapping,1085,,,,
+en,SMBF,Front passenger seat module,1086,,,,
+en,SMBFH,Rear driver's side seat module,1087,,,,
+en,SMFA,Driver's seat module,1088,,,,
+en,SMFAH,Rear driver's side seat module,1089,,,,
+en,SMPL,Skinned Multi-Person Linear Model,1090,,,,
+en,SMT,Shop Management Tool,1091,,,,
+en,SOA,Android Scenario-oriented Application,1092,,,,
+en,SoAW,Statement of Architecture Work,1093,,,,
+en,SoC,System on Chip,1094,,,,
+en,SOC,State Of Charge,1095,,,,
+en,SoC,State of Charge,1096,,,,
+en,SOP,Start of Production,1097,,,,
+en,SOP,Start of Production,1098,,,,
+en,SOTA,Software Over The Air,1099,,,,
+en,SP,Service Provider,1100,,,,
+en,SPC,Secondary Permission Check,1101,,,,
+en,SPE,Sports Platform Electric,1102,,,,
+en,SPIN,Security Personal Identification Number,1103,,,,
+en,SPNMVL,Seat pneumatics module front left,1104,,,,
+en,SPNMVR,Seat pneumatics module front right,1105,,,,
+en,SPOC,Single Point of Contact,1106,,,,
+en,SPR,Service Portal/Platform Retail,1107,,,,
+en,SPS,Standard Positioning Service,1108,,,,
+en,SQ,Safety Quotient,1109,,,,
+en,SQA,Semantic Question Answering,1110,,,,
+en,SQG,SPARQL Query Generator,1111,,,,
+en,SQS,Simple Queue Service,1112,,,,
+en,SR,Scenario Recognition,1113,,,,
+en,SR,Smart Robot,1114,,,,
+en,SR,Service Registry,1115,,,,
+en,SR,State Report,1116,,,,
+en,SRE,Site Reliability Engineering,1117,,,,
+en,SRS,Supplemental Restraint System,1118,,,,
+en,SRS,Supplemental Restraint System,1119,,,,
+en,SRSNVL,Side radar sensor short range front left,1120,,,,
+en,SRSNVR,Side radar sensor short range front right,1121,,,,
+en,SSB,Start Stop Button,1122,,,,
+en,SSDLC,Secure Software Development LifeCycle,1123,,,,
+en,SSDP,Simple Service Discover Protocol,1124,,,,
+en,SSE,Speech Signal Enhancement,1125,,,,
+en,SSM,Spring+SpringMVC+MyBatis,1126,,,,
+en,sSOA,Secure SOA,1127,,,,
+en,SSP,Scalable Systems Platform,1128,,,,
+en,SSR,Server Side Rendering,1129,,,,
+en,ST,Scenario Templates,1130,,,,
+en,STEAS,Smart Testing Environment for Autonomous System,1131,,,,
+en,stiEF,"scenario-accompanied, text-based, iterative Evaluation of automated driving Functions",1132,,,,
+en,STT,Speech to Text,1133,,,,
+en,SUMO,Simulation of Urban MObility,1134,,,,
+en,SUMO,Simulation of Urban MObility,1135,,,,
+en,SUP,Software Update Process,1136,,,,
+en,SUU,Statischer Umfelddaten Uploader,1137,,,,
+en,SVA,Smart Vehicle Architecture,1138,,,,
+en,SVA,Smoothly Varying Affine,1139,,,,
+en,SVL,Stolen Vehicle Locator,1140,,,,
+en,SVM,Support Vector Machine,1141,,,,
+en,SVM,Software Version Management,1142,,,,
+en,SWA,Spurwechselassistent,1143,,,,
+en,SWC,SoftWare Component,1144,,,,
+en,SWC,Software Component,1145,,,,
+en,SWF,SW Freigabe,1146,,,,
+en,SWIFT,Society For Worldwide Interbank Financial Telecommunication,1147,,,,
+en,SWMS,Software Management Server,1148,,,,
+en,SWMS,Software Management Server,1149,,,,
+en,SZL,Steering column switch cluster,1150,,,,
+en,TA,Travel Assist,1151,,,,
+en,TAD,Trailer-Angle-Detection,1152,,,,
+en,TAM,Technical Account Management,1153,,,,
+en,TAM,Transaction Activation Manager,1154,,,,
+en,TAN,Transaction Authentication Number,1155,,,,
+en,TAP,Technical Architecture Plan,1156,,,,
+en,TAR,Transaction Activation Report,1157,,,,
+en,TBS,Telematics Backend System,1158,,,,
+en,TBT,Turn By Turn,1159,,,,
+en,TCB,Telematic Communication Box,1160,,,,
+en,TCM,Transmission Control Module,1161,,,,
+en,TCS,Traction Control System,1162,,,,
+en,TCU,Tele Communication Unit,1163,,,,
+en,TCU,Vehicles Telematics Unit,1164,,,,
+en,TDM,Time-Division Multiplexing,1165,,,,
+en,TDM,Time Division Multiplexing,1166,,,,
+en,TDS,Tenant Discovery Service,1167,,,,
+en,TEE,Trusted Execution Environment,1168,,,,
+en,TISA,Traveller Information Services Association,1169,,,,
+en,TJP,Traffic Jam Pilot,1170,,,,
+en,TKOV,Two Key Owner Verifikation,1171,,,,
+en,TL,Technical Supply Specification,1172,,,,
+en,TLI,Traffic Light Information ,1173,,,,
+en,TLT,Trustworthy Local Time,1174,,,,
+en,TM,Transceiver Modul,1175,,,,
+en,TM,Three-dimensional Part model,1176,,,,
+en,TMC,Traffic Message Chnnel,1177,,,,
+en,TMC,Traffic Message Channel,1178,,,,
+en,TME,Thermo Management,1179,,,,
+en,TN-ITS,Transport Network – Intelligent Transport Systems,1180,,,,
+en,TNGA,Toyota New Global Architecture,1181,,,,
+en,TOF,Time-Of-Flight,1182,,,,
+en,TOGAF,The Open Group Architecture Framework,1183,,,,
+en,TOTP,Time-based One-time Password Algorithms,1184,,,,
+en,ToU,Type of User,1185,,,,
+en,TP,Transport protocol,1186,,,,
+en,TPA,Trained Parking Assist,1187,,,,
+en,TPB,Technical Product Book,1188,,,,
+en,TPEG,Transport Protocol Experts Group,1189,,,,
+en,TPM[S],Tire Pressure Monitoring [System] (in German: RDK[S]),1190,,,,
+en,TPMS,Tire Pressure Monitoring System,1191,,,,
+en,TPP,Third Party Provider,1192,,,,
+en,TPT,Time Partition Testing,1193,,,,
+en,TRSVC,Top rear side view camera,1194,,,,
+en,TSB,Technical Service Bulletin,1195,,,,
+en,TSF,Traffic Sign Fusion,1196,,,,
+en,TSG,Türsteuergerät,1197,,,,
+en,TSK,Triebstrangkoordinator,1198,,,,
+en,TSM,Trusted Service Manager,1199,,,,
+en,TSN,Typschlüsselnummer,1200,,,,
+en,TSP,Telematics Service Provider,1201,,,,
+en,TSR,Traffic Sign Recognition,1202,,,,
+en,TSS,Telematics Shared Services,1203,,,,
+en,TSS,Telemetry Shared Service,1204,,,,
+en,TT,TingleTour,1205,,,,
+en,TTC,Time To Collision,1206,,,,
+en,TV,TopView,1207,,,,
+en,TVC,Target Value Calculator,1208,,,,
+en,UA,Unweighted Accuracy,1209,,,,
+en,UAC,USB Audio Class,1210,,,,
+en,UART,Universal Asynchronous Receiver/Transmitter,1211,,,,
+en,UAT,User Access Token,1212,,,,
+en,UCJ,Use Case Journey,1213,,,,
+en,UCM,Update and Configuration Management,1214,,,,
+en,UDS,Unified Diagnostic Services,1215,,,,
+en,UDS,Unix Domain Sockets,1216,,,,
+en,UFS,Universal Flash Storage,1217,,,,
+en,UFS,Universal Flash Storage,1218,,,,
+en,UHL,User Handler List,1219,,,,
+en,UI,User images,1220,,,,
+en,ULH,User List Handler,1221,,,,
+en,UOTA,Update Over The Air,1222,,,,
+en,UPS,Universelles Prüfsystem,1223,,,,
+en,URDF,Unified Robot Description Format,1224,,,,
+en,URM,User Relations Management,1225,,,,
+en,USB-SS,Universal Serial Bus Super Speed,1226,,,,
+en,USS,User State Server,1227,,,,
+en,USSG,Unterbodensensorik-Steuergerät,1228,,,,
+en,UTRAN,Universal Terrestrial Radio Access Network,1229,,,,
+en,Uu,User-to-UTRAN,1230,,,,
+en,V2I,Vehicle to Infrastructure,1231,,,,
+en,V2N,Vehicle to Network ,1232,,,,
+en,V2P,Vehicle to Pedestrian,1233,,,,
+en,V2V,Vehicle to Vehicle,1234,,,,
+en,V2X,Vehicle to Everything,1235,,,,
+en,VAE,Variational Auto Encoder,1236,,,,
+en,VAL,Vehicle Abstraction Layer,1237,,,,
+en,VANETs,Vehicular Ad Hoc Networks,1238,,,,
+en,VAS,Vehicle Activation Service,1239,,,,
+en,VAS,Volkswagen Audi Solution,1240,,,,
+en,VAS,Volkswagen Automotive Service Equipment,1241,,,,
+en,VAS,Vehicle Activation Service,1242,,,,
+en,VAT,Value-added Tax,1243,,,,
+en,VCF,Vehicle Connectivity Framework,1244,,,,
+en,VCI,Vehicle Communication Interface,1245,,,,
+en,VCM,Vehicle Configuration Manager,1246,,,,
+en,VCM,Vehicle Capability Management,1247,,,,
+en,VCM,Vehicle Capability Management,1248,,,,
+en,VCOS,Vehicle-Controlled Operating System,1249,,,,
+en,VCS,Volkswagen Computer System ,1250,,,,
+en,VCTL,Vehicle Configuration Type List,1251,,,,
+en,VCU,Vehicle Control Unit,1252,,,,
+en,VDA,The German Association of the Automotive Industry,1253,,,,
+en,VDBS,Vehicle Discovery Backend Service,1254,,,,
+en,VDC,Vehicle Domain Controller,1255,,,,
+en,VDFE,Vehicle Dynamics Friction Estimator (Fahrdyn. Reibwertschätzer),1256,,,,
+en,VDP,Vertical Dynamic Platform,1257,,,,
+en,VDQS,Verified Data Qualification Service,1258,,,,
+en,VDS,Vehicle Discovery Service,1259,,,,
+en,VDSO,Vehicle Driving State Observer,1260,,,,
+en,Version42,Engineering database hosting the ECU data and configuration files,1261,,,,
+en,VFB,Virtual Function Bus,1262,,,,
+en,VFF,Vorserien-Freigabe Fahrzeug / Pre-series release vehicle,1263,,,,
+en,vFGS,Vorausschauender Fußgängerschutz,1264,,,,
+en,VFOV,Vertical Field of View,1265,,,,
+en,VGC,Volkswagen Group China,1266,,,,
+en,VHR,Vehicle Health Report ,1267,,,,
+en,VI,Vehicle-Integration,1268,,,,
+en,VICS,Vehicle Information and Communication System,1269,,,,
+en,VID,VID,1270,,,,
+en,VIL,Vehicle Integration Layer,1271,,,,
+en,VILMA,Vehicle Image Library Media Access,1272,,,,
+en,VIN,Vehicle Identification Number,1273,,,,
+en,VIP,Virtual Integration Platform,1274,,,,
+en,VIS,Vehicle Integration Service,1275,,,,
+en,VISC,Vehicle Integration Service Controller,1276,,,,
+en,VIWI,Volkswagen Infotainment Web Interface,1277,,,,
+en,VKMS,Vehicle Key Management System,1278,,,,
+en,VKMS,Vehicle Key Management System,1279,,,,
+en,VKMS,Volkswagen Key Management System,1280,,,,
+en,VKMS,Vehicle Key Management System,1281,,,,
+en,VMD,Vehicle Master Data,1282,,,,
+en,VMM,Vehicle Motion Manager,1283,,,,
+en,VMMP,VMM Primary,1284,,,,
+en,VMMS,VMM Secondary,1285,,,,
+en,vRFS,Vorausschauender Radfahrerschutz,1286,,,,
+en,VRS,Vehicle Readiness Sound,1287,,,,
+en,VSM,Vehicle Signal Manager,1288,,,,
+en,VSP,Vehicle Sensoring Platform,1289,,,,
+en,VSR,Vehicle Status Report,1290,,,,
+en,VSS,Vehicle Signal Specification,1291,,,,
+en,VTATL,Vehicle Transaction Activation Type List,1292,,,,
+en,VTG,Transfer box,1293,,,,
+en,VTTL,Vehicle Transaction Type List,1294,,,,
+en,VUI,Voice User Interface,1295,,,,
+en,VUL,Vehicle User List,1296,,,,
+en,VUM,Vehicle User Management,1297,,,,
+en,VUR,Vehicle User Relation,1298,,,,
+en,VW FS AG,Volkswagen Finanicial Services AG,1299,,,,
+en,VW.OS,Volkswagen Operation System (in car),1300,,,,
+en,VWAC,Volkswagen Automotive Cloud,1301,,,,
+en,VWFS,VW Financial Services,1302,,,,
+en,VWID,Name of solution for IAM for Volkswagen PKW,1303,,,,
+en,VWN,Stands for Volkswagen Commercial Vehicles,1304,,,,
+en,VWS,Volkswagen Web Services,1305,,,,
+en,VZE,Verkehrszeichen Erkennung,1306,,,,
+en,VZF,Verkehrszeichen Fusion,1307,,,,
+en,VZO,Verkehrszeichen Online,1308,,,,
+en,WAC,Web App Controller,1309,,,,
+en,WAC,Web App Controller,1310,,,,
+en,WAMP,Web Application Messaging Protocol,1311,,,,
+en,WBA,Warnen-Bremsen-Ausweichen,1312,,,,
+en,WBL,Web Based Login,1313,,,,
+en,WCA/NFC,Wireless charging station with control electronics for Near Field Communication,1314,,,,
+en,WCB,Wireless Car Backend,1315,,,,
+en,WCG,We Connect Go,1316,,,,
+en,WCG,WeConnectGo,1317,,,,
+en,WECG,WeConnectGo,1318,,,,
+en,Wex,WeExperience,1319,,,,
+en,WHUD,Windshield Head Up Display,1320,,,,
+en,WL,White Label,1321,,,,
+en,WOB,We Organize Backend,1322,,,,
+en,WPC,Wireless Phone Charging,1323,,,,
+en,WS,WorkShop,1324,,,,
+en,WSJF,Weighted Shortest Job First,1325,,,,
+en,WSS,Wheel Speed Sensors,1326,,,,
+en,XCHG,exchange,1327,,,,
+en,XOA,user eXperience Oriented Architecture,1328,,,,
+en,YAMAICA,Yet Another Model And Interface Conversion Application,1329,,,,
+en,YMRS,Young Mania Rating Scale,1330,,,,
+en,ZAT,Holografischer Start/Stop Schalter,1331,,,,
+en,ZDC,Zieldatencontainer,1332,,,,
+en,ZeC,Zone electric Controller,1333,,,,
+en,ZFAS,Zentrale Fahrer Assistenz System,1334,,,,
+en,zFDI,zentraler Fahrzeugdaten Interpreter,1335,,,,
+en,ZGM,Central Gateway Module,1336,,,,
+en,ZP8,Point of delivery 8 ,1337,,,,
+en,ZR,Zentralrechner,1338,,,,
+en,ZSB,Zusammenbauteil,1339,,,,
+en,ZUG,a German word for train,1340,,,,
