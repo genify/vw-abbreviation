@@ -117,7 +117,6 @@
 "AXI","Advanced eXtensible Interface"
 "AZK","Anzeigekoordinator"
 "AzS","Authorization Server"
-"AzS","Authorization Server"
 "B2B","Business to Business"
 "BAF","Boot Assisted Flash"
 "BAP","Bedien-Anzeige-Protokoll"
@@ -1290,3 +1289,5 @@
 "BDM","Batteriedatenmodul/battery data module"
 "APA","Achsparallelen Antrieb/(steering system with) drive parallel to the axis"
 "ASV","Alternative Sollvorgabe/Alternative nominal specification"
+"SC","Service Controller"
+"TM","Token Manager"
