@@ -1318,3 +1318,7 @@
 "CDA","China Digital Assistant"
 "RMAI","Remote Monitoring Access Interior"
 "CMP","China Mainland Platform"
+"ES","Embedded Software"
+"VTM","Vehicle Thermal Mgmt."
+"MO","Vehicle to DP, uplink, MQTT_DIRECTION_CAR_ORIGINATED"
+"MT","DP to Vechile, downlink, MQTT_DIRECTION_CAR_TERMINATED"
